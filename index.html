@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="sv"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Lediga jobb i Gästrikland</title>
+<style>
+:root{--bg:#faf6f0;--card:#fff;--ink:#2b2522;--muted:#6f645c;--acc:#b5562b;--acc2:#2f6b4f;--red:#c0392b}
+*{box-sizing:border-box}body{margin:0;font:17px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:var(--bg);color:var(--ink)}
+header{background:linear-gradient(135deg,#7a3b1e,#b5562b);color:#fff;padding:28px 18px 22px}
+header h1{margin:0 0 4px;font-size:1.7rem}header p{margin:0;opacity:.9}
+main{max-width:760px;margin:0 auto;padding:14px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0 14px}
+.chip{border:2px solid var(--acc);background:#fff;color:var(--acc);border-radius:999px;padding:10px 16px;font-size:1rem;min-height:44px;cursor:pointer}
+.chip.on{background:var(--acc);color:#fff}
+.chip.hide{border-color:var(--acc2);color:var(--acc2)}.chip.hide.on{background:var(--acc2);color:#fff}
+h2{font-size:1.05rem;color:var(--muted);margin:22px 4px 8px;text-transform:uppercase;letter-spacing:.04em}
+.card{background:var(--card);border-radius:14px;padding:16px;margin:0 0 12px;box-shadow:0 1px 4px rgba(60,40,20,.12);transition:opacity .2s}
+.card h3{margin:0 0 4px;font-size:1.2rem}
+.meta{color:var(--muted);font-size:.95rem}
+.tag{display:inline-block;background:#f1e6da;color:#7a3b1e;border-radius:6px;padding:1px 8px;font-size:.85rem;margin-right:6px}
+.ny{background:var(--acc2);color:#fff;font-weight:600}
+.krav{font-size:.95rem;color:#4a403a}
+.dl{font-weight:600}.dl.soon{color:var(--red)}
+.btns{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
+.btns a,.btns button{flex:1 1 150px;text-align:center;min-height:48px;border-radius:10px;font-size:1rem;padding:12px;text-decoration:none;cursor:pointer}
+.btns a{background:var(--acc);color:#fff;border:0}
+.btns button{background:#fff;border:2px solid var(--acc2);color:var(--acc2)}
+.card.sokt{opacity:.55;background:#efebe6}.card.sokt .btns button{background:var(--acc2);color:#fff}
+footer{text-align:center;color:var(--muted);font-size:.9rem;padding:24px 14px 40px}
+.empty{text-align:center;color:var(--muted);padding:30px}
+</style></head><body>
+<header><h1>Lediga jobb i Gästrikland</h1><p>Sandviken · Gävle · Ockelbo · Hofors</p></header>
+<main><div class="bar" id="chips"></div><div id="list"><p class="empty">Laddar jobb…</p></div></main>
+<footer>Källa: Arbetsförmedlingens Platsbanken. Uppdateras vardagar.<br><span id="upd"></span></footer>
+<script>
+const KEY='sokta-jobb',S=new Set(JSON.parse(localStorage.getItem(KEY)||'[]'));
+let jobs=[],kat='Alla',hide=localStorage.getItem('dolj')==='1';
+const today=new Date();today.setHours(0,0,0,0);
+const d=s=>new Date(s+'T00:00:00'),days=s=>Math.round((d(s)-today)/864e5);
+const fmt=s=>d(s).toLocaleDateString('sv-SE',{day:'numeric',month:'long'});
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function chips(){const ks=['Alla',...new Set(jobs.map(j=>j.kategori))];
+ chips_el.innerHTML=ks.map(k=>`<button class="chip ${k===kat?'on':''}" data-k="${esc(k)}">${esc(k)}</button>`).join('')+`<button class="chip hide ${hide?'on':''}" id="h">${hide?'Visar ej sökta':'Dölj sökta'}</button>`;
+ chips_el.querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{kat=b.dataset.k;render()});
+ h.onclick=()=>{hide=!hide;localStorage.setItem('dolj',hide?'1':'0');render()}}
+const chips_el=document.getElementById('chips'),list=document.getElementById('list');
+function render(){chips();
+ const v=jobs.filter(j=>(kat==='Alla'||j.kategori===kat)&&!(hide&&S.has(j.id)));
+ if(!v.length){list.innerHTML='<p class="empty">Inga jobb att visa.</p>';return}
+ let html='',cur='';
+ for(const j of v){if(j.first_seen!==cur){cur=j.first_seen;html+=`<h2>Tillagda ${fmt(cur)}</h2>`}
+  const n=days(j.sista_dag),ny=-days(j.first_seen)<=3,s=S.has(j.id);
+  html+=`<article class="card ${s?'sokt':''}"><div>${ny?'<span class="tag ny">Ny</span>':''}<span class="tag">${esc(j.kategori)}</span></div>
+  <h3>${esc(j.rubrik)}</h3><div class="meta">${esc(j.arbetsgivare)} · ${esc(j.ort)}</div>
+  <p>${esc(j.beskrivning)}</p><p class="krav"><b>Krav:</b> ${esc(j.krav)}</p>
+  <div class="dl ${n<=5?'soon':''}">Sista dag: ${fmt(j.sista_dag)}${n<=5?` (${n===0?'idag':n+' dagar kvar'})`:''}</div>
+  <div class="btns"><a href="${esc(j.lank)}" target="_blank" rel="noopener">Läs annonsen</a><button data-id="${esc(j.id)}">${s?'Sökt ✓':'Markera som sökt'}</button></div></article>`}
+ list.innerHTML=html;
+ list.querySelectorAll('button[data-id]').forEach(b=>b.onclick=()=>{const i=b.dataset.id;S.has(i)?S.delete(i):S.add(i);localStorage.setItem(KEY,JSON.stringify([...S]));render()})}
+fetch('jobs.json?'+Date.now()).then(r=>r.json()).then(data=>{
+ jobs=data.jobb.filter(j=>days(j.sista_dag)>=0).sort((a,b)=>b.first_seen.localeCompare(a.first_seen)||a.sista_dag.localeCompare(b.sista_dag));
+ document.getElementById('upd').textContent='Senast uppdaterad: '+fmt(data.senast_uppdaterad);render()})
+ .catch(()=>list.innerHTML='<p class="empty">Kunde inte ladda jobben.</p>');
+</script></body></html>
