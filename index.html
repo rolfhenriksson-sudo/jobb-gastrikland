@@ -87,7 +87,7 @@ function panel(){const ms=[...new Set([TODAY.slice(0,7),...Object.values(S).map(
  $('man').innerHTML=ms.map(m=>`<option value="${m}" ${m===month?'selected':''}>${mlabel(m)}</option>`).join('')+`<option value="alla" ${month==='alla'?'selected':''}>Alla månader</option>`;
  const v=shown();
  $('slist').innerHTML=v.length?v.map(x=>`<div class="sitem"><div class="row"><input type="date" value="${x.sokt}" data-d="${esc(x.id)}" aria-label="Sökt-datum"><button class="pbtn noprint" data-u="${esc(x.id)}">Ångra</button></div>
- <h3>${esc(x.rubrik)}</h3><div class="meta">${esc(x.arbetsgivare)} · ${esc(x.ort)}</div><a href="${esc(x.lank)}" target="_blank" rel="noopener">${esc(x.lank)}</a></div>`).join(''):'<p class="empty">Inga sökta jobb den här månaden.</p>';
+ <h3>${esc(x.rubrik)}</h3><div class="meta">${esc(x.arbetsgivare)} · ${esc(x.ort)}</div><a href="${esc(x.lank)}" target="_blank" rel="noopener">Läs annonsen</a></div>`).join(''):'<p class="empty">Inga sökta jobb den här månaden.</p>';
  $('slist').querySelectorAll('[data-d]').forEach(e=>e.onchange=()=>{if(e.value){S[e.dataset.d].sokt=e.value;save();panel();render()}});
  $('slist').querySelectorAll('[data-u]').forEach(e=>e.onclick=()=>{delete S[e.dataset.u];save();panel();render()})}
 const copyText=()=>shown().map(x=>`${x.sokt} – ${x.rubrik}, ${x.arbetsgivare}, ${x.ort}`).join('\n');
