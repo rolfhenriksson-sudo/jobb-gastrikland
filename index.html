@@ -28,37 +28,80 @@ h2{font-size:1.05rem;color:var(--muted);margin:22px 4px 8px;text-transform:upper
 .card.sokt{opacity:.55;background:#efebe6}.card.sokt .btns button{background:var(--acc2);color:#fff}
 footer{text-align:center;color:var(--muted);font-size:.9rem;padding:24px 14px 40px}
 .empty{text-align:center;color:var(--muted);padding:30px}
+.top{display:flex;margin:4px 0 10px}.top button{flex:1;min-height:52px;border-radius:12px;border:0;background:var(--acc2);color:#fff;font-size:1.05rem;font-weight:600;cursor:pointer}
+#panel{position:fixed;inset:0;background:var(--bg);overflow:auto;z-index:10;display:none}#panel.open{display:block}
+#panel .in{max-width:760px;margin:0 auto;padding:16px}
+#panel .row{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+#panel select,#panel input[type=date]{font-size:1rem;min-height:44px;padding:6px 10px;border-radius:8px;border:1px solid #cbbfb3;background:#fff}
+.pbtn{min-height:48px;border-radius:10px;font-size:1rem;padding:10px 16px;cursor:pointer;border:2px solid var(--acc);background:#fff;color:var(--acc)}
+.pbtn.main{background:var(--acc);color:#fff}
+.note{color:var(--muted);font-size:.9rem}
+.sitem{background:#fff;border-radius:12px;padding:12px 14px;margin:0 0 10px;box-shadow:0 1px 3px rgba(60,40,20,.1)}
+.sitem h3{margin:0 0 2px;font-size:1.05rem}.sitem a{color:var(--acc)}
+@media print{body>*:not(#panel){display:none!important}#panel{position:static;display:block}.noprint{display:none!important}.sitem{box-shadow:none;border-bottom:1px solid #ccc;border-radius:0}}
 </style></head><body>
 <header><h1>Lediga jobb i Gästrikland</h1><p>Sandviken · Gävle · Ockelbo · Hofors</p></header>
-<main><div class="bar" id="chips"></div><div id="list"><p class="empty">Laddar jobb…</p></div></main>
+<main><div class="top"><button id="visa">Visa sökta jobb (0)</button></div><div class="bar" id="chips"></div><div id="list"><p class="empty">Laddar jobb…</p></div></main>
+<div id="panel"><div class="in">
+<div class="row noprint"><button class="pbtn" id="stang">← Tillbaka</button></div>
+<h2 style="margin-top:6px">Sökta jobb</h2>
+<div class="row noprint"><label>Månad: <select id="man"></select></label></div>
+<div class="row noprint"><button class="pbtn main" id="kop">Kopiera lista</button><button class="pbtn" id="skriv">Skriv ut</button><span id="kopok" style="color:var(--acc2);font-weight:600"></span></div>
+<p class="note">Markeringarna sparas i den här telefonen/webbläsaren.</p>
+<div id="slist"></div></div></div>
 <footer>Källa: Arbetsförmedlingens Platsbanken. Uppdateras vardagar.<br><span id="upd"></span></footer>
 <script>
-const KEY='sokta-jobb',S=new Set(JSON.parse(localStorage.getItem(KEY)||'[]'));
-let jobs=[],kat='Alla',hide=localStorage.getItem('dolj')==='1';
+const K2='sokta-jobb-v2';let jobs=[],all=[],kat='Alla',hide=localStorage.getItem('dolj')==='1';
 const today=new Date();today.setHours(0,0,0,0);
+const iso=x=>x.getFullYear()+'-'+String(x.getMonth()+1).padStart(2,'0')+'-'+String(x.getDate()).padStart(2,'0');
+const TODAY=iso(today);
 const d=s=>new Date(s+'T00:00:00'),days=s=>Math.round((d(s)-today)/864e5);
 const fmt=s=>d(s).toLocaleDateString('sv-SE',{day:'numeric',month:'long'});
 const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+let S=JSON.parse(localStorage.getItem(K2)||'{}');
+const save=()=>localStorage.setItem(K2,JSON.stringify(S));
+const snap=j=>({id:j.id,rubrik:j.rubrik,arbetsgivare:j.arbetsgivare,ort:j.ort,lank:j.lank,sista_dag:j.sista_dag,sokt:TODAY});
+const $=id=>document.getElementById(id),chips_el=$('chips'),list=$('list');
 function chips(){const ks=['Alla',...new Set(jobs.map(j=>j.kategori))];
  chips_el.innerHTML=ks.map(k=>`<button class="chip ${k===kat?'on':''}" data-k="${esc(k)}">${esc(k)}</button>`).join('')+`<button class="chip hide ${hide?'on':''}" id="h">${hide?'Visar ej sökta':'Dölj sökta'}</button>`;
  chips_el.querySelectorAll('[data-k]').forEach(b=>b.onclick=()=>{kat=b.dataset.k;render()});
- h.onclick=()=>{hide=!hide;localStorage.setItem('dolj',hide?'1':'0');render()}}
-const chips_el=document.getElementById('chips'),list=document.getElementById('list');
-function render(){chips();
- const v=jobs.filter(j=>(kat==='Alla'||j.kategori===kat)&&!(hide&&S.has(j.id)));
+ $('h').onclick=()=>{hide=!hide;localStorage.setItem('dolj',hide?'1':'0');render()}}
+function render(){chips();$('visa').textContent=`Visa sökta jobb (${Object.keys(S).length})`;
+ const v=jobs.filter(j=>(kat==='Alla'||j.kategori===kat)&&!(hide&&S[j.id]));
  if(!v.length){list.innerHTML='<p class="empty">Inga jobb att visa.</p>';return}
  let html='',cur='';
  for(const j of v){if(j.first_seen!==cur){cur=j.first_seen;html+=`<h2>Tillagda ${fmt(cur)}</h2>`}
-  const n=days(j.sista_dag),ny=-days(j.first_seen)<=3,s=S.has(j.id);
+  const n=days(j.sista_dag),ny=-days(j.first_seen)<=3,s=!!S[j.id];
   html+=`<article class="card ${s?'sokt':''}"><div>${ny?'<span class="tag ny">Ny</span>':''}<span class="tag">${esc(j.kategori)}</span></div>
   <h3>${esc(j.rubrik)}</h3><div class="meta">${esc(j.arbetsgivare)} · ${esc(j.ort)}</div>
   <p>${esc(j.beskrivning)}</p><p class="krav"><b>Krav:</b> ${esc(j.krav)}</p>
   <div class="dl ${n<=5?'soon':''}">Sista dag: ${fmt(j.sista_dag)}${n<=5?` (${n===0?'idag':n+' dagar kvar'})`:''}</div>
   <div class="btns"><a href="${esc(j.lank)}" target="_blank" rel="noopener">Läs annonsen</a><button data-id="${esc(j.id)}">${s?'Sökt ✓':'Markera som sökt'}</button></div></article>`}
  list.innerHTML=html;
- list.querySelectorAll('button[data-id]').forEach(b=>b.onclick=()=>{const i=b.dataset.id;S.has(i)?S.delete(i):S.add(i);localStorage.setItem(KEY,JSON.stringify([...S]));render()})}
-fetch('jobs.json?'+Date.now()).then(r=>r.json()).then(data=>{
- jobs=data.jobb.filter(j=>days(j.sista_dag)>=0).sort((a,b)=>b.first_seen.localeCompare(a.first_seen)||a.sista_dag.localeCompare(b.sista_dag));
- document.getElementById('upd').textContent='Senast uppdaterad: '+fmt(data.senast_uppdaterad);render()})
+ list.querySelectorAll('button[data-id]').forEach(b=>b.onclick=()=>{const i=b.dataset.id;if(S[i])delete S[i];else S[i]=snap(jobs.find(j=>j.id===i));save();render()})}
+const MN=['januari','februari','mars','april','maj','juni','juli','augusti','september','oktober','november','december'];
+const mlabel=m=>MN[+m.slice(5)-1]+' '+m.slice(0,4);
+let month=TODAY.slice(0,7);
+const shown=()=>Object.values(S).filter(x=>month==='alla'||x.sokt.startsWith(month)).sort((a,b)=>b.sokt.localeCompare(a.sokt));
+function panel(){const ms=[...new Set([TODAY.slice(0,7),...Object.values(S).map(x=>x.sokt.slice(0,7))])].sort().reverse();
+ $('man').innerHTML=ms.map(m=>`<option value="${m}" ${m===month?'selected':''}>${mlabel(m)}</option>`).join('')+`<option value="alla" ${month==='alla'?'selected':''}>Alla månader</option>`;
+ const v=shown();
+ $('slist').innerHTML=v.length?v.map(x=>`<div class="sitem"><div class="row"><input type="date" value="${x.sokt}" data-d="${esc(x.id)}" aria-label="Sökt-datum"><button class="pbtn noprint" data-u="${esc(x.id)}">Ångra</button></div>
+ <h3>${esc(x.rubrik)}</h3><div class="meta">${esc(x.arbetsgivare)} · ${esc(x.ort)}</div><a href="${esc(x.lank)}" target="_blank" rel="noopener">${esc(x.lank)}</a></div>`).join(''):'<p class="empty">Inga sökta jobb den här månaden.</p>';
+ $('slist').querySelectorAll('[data-d]').forEach(e=>e.onchange=()=>{if(e.value){S[e.dataset.d].sokt=e.value;save();panel();render()}});
+ $('slist').querySelectorAll('[data-u]').forEach(e=>e.onclick=()=>{delete S[e.dataset.u];save();panel();render()})}
+const copyText=()=>shown().map(x=>`${x.sokt} – ${x.rubrik}, ${x.arbetsgivare}, ${x.ort}`).join('\n');
+$('man').onchange=e=>{month=e.target.value;panel()};
+$('visa').onclick=()=>{panel();$('panel').classList.add('open');scrollTo(0,0)};
+$('stang').onclick=()=>$('panel').classList.remove('open');
+$('skriv').onclick=()=>print();
+$('kop').onclick=async()=>{const t=copyText();let ok=false;
+ try{await navigator.clipboard.writeText(t);ok=true}catch(e){const ta=document.createElement('textarea');ta.value=t;document.body.appendChild(ta);ta.select();ok=document.execCommand('copy');ta.remove()}
+ $('kopok').textContent=ok?'Kopierat!':'Kunde inte kopiera';setTimeout(()=>$('kopok').textContent='',2500)};
+fetch('jobs.json?'+Date.now()).then(r=>r.json()).then(data=>{all=data.jobb;
+ const old=JSON.parse(localStorage.getItem('sokta-jobb')||'null');
+ if(Array.isArray(old)){for(const i of old){const j=all.find(x=>x.id===i);if(j&&!S[i])S[i]=snap(j)}save();localStorage.removeItem('sokta-jobb')}
+ jobs=all.filter(j=>days(j.sista_dag)>=0).sort((a,b)=>b.first_seen.localeCompare(a.first_seen)||a.sista_dag.localeCompare(b.sista_dag));
+ $('upd').textContent='Senast uppdaterad: '+fmt(data.senast_uppdaterad);render()})
  .catch(()=>list.innerHTML='<p class="empty">Kunde inte ladda jobben.</p>');
 </script></body></html>
