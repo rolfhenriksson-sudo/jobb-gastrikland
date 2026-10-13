@@ -19,6 +19,7 @@ h2{font-size:1.05rem;color:var(--muted);margin:22px 4px 8px;text-transform:upper
 .meta{color:var(--muted);font-size:.95rem}
 .tag{display:inline-block;background:#f1e6da;color:#7a3b1e;border-radius:6px;padding:1px 8px;font-size:.85rem;margin-right:6px}
 .ny{background:var(--acc2);color:#fff;font-weight:600}
+.aid{font-size:.85rem;color:var(--muted);user-select:all;-webkit-user-select:all}
 .krav{font-size:.95rem;color:#4a403a}
 .dl{font-weight:600}.dl.soon{color:var(--red)}
 .btns{display:flex;gap:10px;flex-wrap:wrap;margin-top:12px}
@@ -73,7 +74,7 @@ function render(){chips();$('visa').textContent=`Visa sökta jobb (${Object.keys
  for(const j of v){if(j.first_seen!==cur){cur=j.first_seen;html+=`<h2>Tillagda ${fmt(cur)}</h2>`}
   const n=days(j.sista_dag),ny=-days(j.first_seen)<=3,s=!!S[j.id];
   html+=`<article class="card ${s?'sokt':''}"><div>${ny?'<span class="tag ny">Ny</span>':''}<span class="tag">${esc(j.kategori)}</span></div>
-  <h3>${esc(j.rubrik)}</h3><div class="meta">${esc(j.arbetsgivare)} · ${esc(j.ort)}</div>
+  <h3>${esc(j.rubrik)}</h3><div class="meta">${esc(j.arbetsgivare)} · ${esc(j.ort)}</div><div class="aid">Annons-id: ${esc(j.id)}</div>
   <p>${esc(j.beskrivning)}</p><p class="krav"><b>Krav:</b> ${esc(j.krav)}</p>
   <div class="dl ${n<=5?'soon':''}">Sista dag: ${fmt(j.sista_dag)}${n<=5?` (${n===0?'idag':n+' dagar kvar'})`:''}</div>
   <div class="btns"><a href="${esc(j.lank)}" target="_blank" rel="noopener">Läs annonsen</a><button data-id="${esc(j.id)}">${s?'Sökt ✓':'Markera som sökt'}</button></div></article>`}
@@ -87,10 +88,10 @@ function panel(){const ms=[...new Set([TODAY.slice(0,7),...Object.values(S).map(
  $('man').innerHTML=ms.map(m=>`<option value="${m}" ${m===month?'selected':''}>${mlabel(m)}</option>`).join('')+`<option value="alla" ${month==='alla'?'selected':''}>Alla månader</option>`;
  const v=shown();
  $('slist').innerHTML=v.length?v.map(x=>`<div class="sitem"><div class="row"><input type="date" value="${x.sokt}" data-d="${esc(x.id)}" aria-label="Sökt-datum"><button class="pbtn noprint" data-u="${esc(x.id)}">Ångra</button></div>
- <h3>${esc(x.rubrik)}</h3><div class="meta">${esc(x.arbetsgivare)} · ${esc(x.ort)}</div><a href="${esc(x.lank)}" target="_blank" rel="noopener">Läs annonsen</a></div>`).join(''):'<p class="empty">Inga sökta jobb den här månaden.</p>';
+ <h3>${esc(x.rubrik)}</h3><div class="meta">${esc(x.arbetsgivare)} · ${esc(x.ort)}</div><div class="aid">Annons-id: ${esc(x.id)}</div><a href="${esc(x.lank)}" target="_blank" rel="noopener">Läs annonsen</a></div>`).join(''):'<p class="empty">Inga sökta jobb den här månaden.</p>';
  $('slist').querySelectorAll('[data-d]').forEach(e=>e.onchange=()=>{if(e.value){S[e.dataset.d].sokt=e.value;save();panel();render()}});
  $('slist').querySelectorAll('[data-u]').forEach(e=>e.onclick=()=>{delete S[e.dataset.u];save();panel();render()})}
-const copyText=()=>shown().map(x=>`${x.sokt} – ${x.rubrik}, ${x.arbetsgivare}, ${x.ort}`).join('\n');
+const copyText=()=>shown().map(x=>`${x.sokt} – ${x.rubrik}, ${x.arbetsgivare}, ${x.ort} (annons-id ${x.id})`).join('\n');
 $('man').onchange=e=>{month=e.target.value;panel()};
 $('visa').onclick=()=>{panel();$('panel').classList.add('open');scrollTo(0,0)};
 $('stang').onclick=()=>$('panel').classList.remove('open');

@@ -6,6 +6,8 @@ Statisk sida (GitHub Pages) med lediga jobb från Platsbanken i Sandviken, Gävl
 ## Daglig uppdatering
     python3 /workspace/jobb-gastrikland/update.py /path/nya.json
 
+`id` (Platsbankens annons-id) är obligatoriskt och visas på sidan och i sökta-listan.
+
 `nya.json` är en JSON-lista med objekt: `id, rubrik, arbetsgivare, ort, kategori, beskrivning, krav, sista_dag, lank`.
 Skriptet sätter `first_seen` till dagens datum för nya id:n, uppdaterar befintliga, tar bort utgångna,
 sätter `senast_uppdaterad`, committar och pushar. Kör med tom lista (`[]`) för att bara rensa utgångna.

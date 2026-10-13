@@ -10,6 +10,7 @@ new = json.load(open(sys.argv[1])) if len(sys.argv) > 1 and not sys.argv[1].star
 known = {j['id']: j for j in data['jobb']}
 added = 0
 for a in new:
+    if not str(a.get('id','')).strip().isdigit(): sys.exit(f'Fel: annons utan giltigt numeriskt id: {a}')
     a['id'] = str(a['id'])
     a.setdefault('lank', 'https://arbetsformedlingen.se/platsbanken/annonser/' + a['id'])
     a['sista_dag'] = a['sista_dag'][:10]
