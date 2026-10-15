@@ -1,6 +1,54 @@
 {
- "senast_uppdaterad": "2026-10-14",
+ "senast_uppdaterad": "2026-10-15",
  "jobb": [
+  {
+   "id": "31600083",
+   "rubrik": "Larminstallatör (deltid)",
+   "arbetsgivare": "Svenska Alarm Gruppen AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Kundbesök, montering av trådlösa larm och programmering av komponenter.",
+   "krav": "Tekniskt intresse, social, van vid handverktyg. Deltid. Sista dag 30 okt.",
+   "sista_dag": "2026-10-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31600083",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "31599932",
+   "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
+   "arbetsgivare": "Manpower Aktiebolag",
+   "ort": "Gävle",
+   "kategori": "Industri",
+   "beskrivning": "Bemanning till tillverkande industri i Sandviken och Gävle. En ansökan matchas mot flera uppdrag.",
+   "krav": "Erfarenhet från industrin eller relevant utbildning. Heltid.",
+   "sista_dag": "2026-11-14",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31599932",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "31598108",
+   "rubrik": "Taxichaufför",
+   "arbetsgivare": "Sveso AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Färdtjänst, sjukresor och skolskjuts i Gävle, Sandviken, Hamrånge och Hofors. Dag, kväll och helg.",
+   "krav": "Giltig taxileg. Heltid eller deltid.",
+   "sista_dag": "2026-11-29",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31598108",
+   "first_seen": "2026-10-15"
+  },
+  {
+   "id": "31598007",
+   "rubrik": "Distributionschaufför",
+   "arbetsgivare": "Kharels Entreprenad AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Paket- och varudistribution till privatpersoner och företag. Aktivt, självständigt körjobb.",
+   "krav": "B-körkort. Deltid.",
+   "sista_dag": "2027-04-12",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31598007",
+   "first_seen": "2026-10-15"
+  },
   {
    "id": "31596940",
    "rubrik": "Ventilationsmontörer till Teknisk Fastighetsservice AB i Gävleborgs län",
