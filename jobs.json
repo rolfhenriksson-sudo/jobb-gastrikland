@@ -1,6 +1,78 @@
 {
- "senast_uppdaterad": "2026-10-15",
+ "senast_uppdaterad": "2026-10-16",
  "jobb": [
+  {
+   "id": "31608450",
+   "rubrik": "Maskinoperatör till tillverkningsindustri i Sandviken",
+   "arbetsgivare": "Randstad AB",
+   "ort": "Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Köra, ställa och övervaka maskiner i produktion (bl.a. precisionstillverkning). Ritningsläsning, kvalitetskontroll, enklare felsökning och rapportering.",
+   "krav": "Erfarenhet som maskinoperatör. Noggrann och säkerhetsmedveten. Konsultuppdrag via Randstad, heltid.",
+   "sista_dag": "2026-11-06",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31608450",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "31606071",
+   "rubrik": "Servicetekniker / VVS-montör inom vattenrening",
+   "arbetsgivare": "JMS Vattenrening Aktiebolag",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Installera och serva vattenreningsanläggningar hemma hos kunder. Felsökning, underhåll, kundkontakt och dokumentation. Produktutbildning ges.",
+   "krav": "Utbildning inom VVS, B-körkort, svenska. Servicevana meriterande. Direktrekrytering via franchisetagare.",
+   "sista_dag": "2027-04-14",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31606071",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "31604763",
+   "rubrik": "Erfaren TIG-svetsare till Tovenco AB i Hedesunda",
+   "arbetsgivare": "Tovenco AB",
+   "ort": "Gävle (Hedesunda)",
+   "kategori": "Industri",
+   "beskrivning": "TIG-svetsning i rostfritt stål (tunnplåt) för ventilationsprodukter. Ritningsläsning, kvalitetskontroll och efterbearbetning i egen tillverkning.",
+   "krav": "Flera års erfarenhet av TIG i rostfritt, vana vid tunnplåt och ritningsläsning. Heltid, tillsvidare enligt överenskommelse.",
+   "sista_dag": "2026-11-15",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31604763",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "31603437",
+   "rubrik": "CNC-operatör till industrikund i Sandviken",
+   "arbetsgivare": "Clockwork Bemanning & Rekrytering AB",
+   "ort": "Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Köra och övervaka CNC-maskiner, göra ställ/justeringar och enklare programmering. Skift kan förekomma. Nybörjare och erfarna välkomna.",
+   "krav": "CNC-utbildning eller motsvarande erfarenhet. Ritningsläsning och mätteknik. Truck-/traverskort meriterande. Heltid.",
+   "sista_dag": "2026-11-08",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31603437",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "31603220",
+   "rubrik": "Terminalarbetare (deltid) i Gävle",
+   "arbetsgivare": "Flexio Work AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Sortering, scanning och plock på Instabee-terminal. Tempoarbete med tunga moment. Ca 2–3 dagar/vecka, flexibelt 11–15.",
+   "krav": "18+, B-körkort (manuell), svenska eller engelska. Studerar eller har annat jobb minst 50 %. Truckkort meriterande. Bakgrundskontroll.",
+   "sista_dag": "2026-11-14",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31603220",
+   "first_seen": "2026-10-16"
+  },
+  {
+   "id": "31602929",
+   "rubrik": "Pumpmaskinist (betong) i Gävle",
+   "arbetsgivare": "Prima Bemanning & Logistik Stockholm AB",
+   "ort": "Gävle",
+   "kategori": "Bygg/snickeri",
+   "beskrivning": "Pumpa betong på byggarbetsplatser, sköta pump och bil, kundkontakt. Schema 2 veckor jobb / 1 vecka ledigt. Möjlighet att gå över till kund.",
+   "krav": "2–3 års erfarenhet av tunga fordon. BE- eller C-körkort + YKB. Svenska eller engelska. Heltid.",
+   "sista_dag": "2026-11-14",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31602929",
+   "first_seen": "2026-10-16"
+  },
   {
    "id": "31601358",
    "rubrik": "CNC-operatör till industrikund i Sandviken",
@@ -551,18 +623,6 @@
    "krav": "Behovsanställning till årsskiftet, dagtid. Kräver erfarenhet av tung mekanik + truckkort.",
    "sista_dag": "2027-03-16",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31488580",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31488227",
-   "rubrik": "CNC-operatör till stor industrikund i Sandviken | Heltid",
-   "arbetsgivare": "Manpower Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "CNC-operatör hos stor industrikund i Sandviken – köra och övervaka CNC-maskiner och göra kvalitetskontroller.",
-   "krav": "Manpower, 6 mån med möjlig förlängning, skift. CNC-utbildning eller motsvarande erfarenhet krävs. Bakgrundskontroll.",
-   "sista_dag": "2026-10-15",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31488227",
    "first_seen": "2026-10-08"
   },
   {
