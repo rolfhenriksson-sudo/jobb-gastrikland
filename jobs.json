@@ -1,6 +1,42 @@
 {
- "senast_uppdaterad": "2026-10-16",
+ "senast_uppdaterad": "2026-10-19",
  "jobb": [
+  {
+   "id": "31615408",
+   "rubrik": "Lördagssäljare/distributör till Pågen i Gävle",
+   "arbetsgivare": "Pågen Färskbröd AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Köra ut färskt bröd till butiker i Gävle och fylla på hyllorna, självständigt arbete. Vikariat på lördagar och vid behov, start snarast med upplärning. 2 platser.",
+   "krav": "C-körkort. Måste kunna jobba lördagar. Social och van att ta eget ansvar.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31615408",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "id": "31612866",
+   "rubrik": "Butikssäljare hos Würth i Gävle",
+   "arbetsgivare": "Würth Svenska AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Würth säljer verktyg, infästning och förbrukningsmaterial till hantverkare. Försäljning i butik och per telefon till företagskunder, varumottagning och inventering, säljbesök i närområdet. Öppet vardagar 06.30–17. Deltid, tillsvidare.",
+   "krav": "Bransch- och produktkunskap (en snickares verktygskunskap passar bra), butikserfarenhet är ett plus, systemvana.",
+   "sista_dag": "2026-11-02",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31612866",
+   "first_seen": "2026-10-19"
+  },
+  {
+   "id": "31611407",
+   "rubrik": "Liftvärd till Hemlingbybacken",
+   "arbetsgivare": "Gävle kommun",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Timvikarie i skidbacken under snösäsongen: hjälpa gäster i liftarna, kassa och liftkort, besiktning och enklare underhåll av liftar och backar, städning och ved till grillplatserna. 6 platser.",
+   "krav": "God svenska. Kvällar och helger enligt schema. Meriterande: servicevana, erfarenhet av liftar/backunderhåll, skoterkort.",
+   "sista_dag": "2026-11-01",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31611407",
+   "first_seen": "2026-10-19"
+  },
   {
    "id": "31608450",
    "rubrik": "Maskinoperatör till tillverkningsindustri i Sandviken",
@@ -446,18 +482,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31546144",
-   "rubrik": "Operatör",
-   "arbetsgivare": "Sandvik Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Operatör i högautomatiserad tillverkning av borrkronor hos Sandvik Rock Tools.",
-   "krav": "Tillsvidare, skift. Kräver avslutad teknisk (gymnasie)utbildning + truckkort; svenska och engelska.",
-   "sista_dag": "2026-10-16",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31546144",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31540052",
    "rubrik": "Open application - Logistic Support to World Leading Tech Company",
    "arbetsgivare": "TEMP-TEAM Sverige AB",
@@ -518,18 +542,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31528460",
-   "rubrik": "Operatör - Värmebehandlingen",
-   "arbetsgivare": "Sandvik Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Operatör på värmebehandlingen hos Sandvik Rock Tools – övervaka och styra processer, rapportera produktionsdata.",
-   "krav": "Tillsvidare, 5-skift. Teknisk utbildning eller motsvarande erfarenhet av industriproduktion. Truck/travers meriterande.",
-   "sista_dag": "2026-10-18",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31528460",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31527338",
    "rubrik": "Budbilschaufför",
    "arbetsgivare": "Instabee Group AB",
@@ -539,18 +551,6 @@
    "krav": "Deltid 60 %. B-körkort ≥2 år, truckkort och terminalerfarenhet krav.",
    "sista_dag": "2027-03-27",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31527338",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31527118",
-   "rubrik": "Serviceman till Gävle",
-   "arbetsgivare": "Uniflex AB",
-   "ort": "Gävle",
-   "kategori": "Bygg/snickeri",
-   "beskrivning": "Praktisk allroundtjänst med leveranser, enklare maskinservice samt enklare snickeri- och reparationsarbeten.",
-   "krav": "Bemanning (Uniflex). B-körkort krav; BE-körkort/truckkort meriterande. Snickerierfarenhet meriterande.",
-   "sista_dag": "2026-10-17",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31527118",
    "first_seen": "2026-10-08"
   },
   {
@@ -602,18 +602,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31491599",
-   "rubrik": "Produktionsoperatör",
-   "arbetsgivare": "Svenskatt AB",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Produktionsoperatör i liten kattmatsproduktion – driva den dagliga produktionen.",
-   "krav": "Tillsvidare, heltid, ingen erfarenhet krävs. OBS: företaget planerar att flytta produktionen till Märsta.",
-   "sista_dag": "2026-10-17",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31491599",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31488580",
    "rubrik": "Godsvagnsreparatörer till Gävle",
    "arbetsgivare": "Uniflex AB",
@@ -623,30 +611,6 @@
    "krav": "Behovsanställning till årsskiftet, dagtid. Kräver erfarenhet av tung mekanik + truckkort.",
    "sista_dag": "2027-03-16",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31488580",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31484621",
-   "rubrik": "Livsmedelsarbetare till kött- och charkproduktion i Hofors",
-   "arbetsgivare": "Jaroslav's Rökeri i Hofors AB",
-   "ort": "Hofors",
-   "kategori": "Industri",
-   "beskrivning": "Livsmedelsarbetare i rökeri – korvtillverkning, rökning/torkning, skivning, paketering och rengöring.",
-   "krav": "Tillsvidare, heltid. Erfarenhet önskvärd men inget krav.",
-   "sista_dag": "2026-10-16",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31484621",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31463037",
-   "rubrik": "C-chaufförer (behovsanställning)",
-   "arbetsgivare": "TopWork Sverige AB",
-   "ort": "Ockelbo",
-   "kategori": "Transport",
-   "beskrivning": "C-chaufför vid behov för kund i Ockelbo – lastbilskörning och godstransporter.",
-   "krav": "Behovsanställning; kräver C-körkort, YKB och annan huvudsysselsättning. SISTA DAG 11 okt.",
-   "sista_dag": "2026-10-18",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31463037",
    "first_seen": "2026-10-08"
   },
   {
