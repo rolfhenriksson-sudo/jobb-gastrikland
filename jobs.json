@@ -1,6 +1,42 @@
 {
- "senast_uppdaterad": "2026-10-21",
+ "senast_uppdaterad": "2026-10-22",
  "jobb": [
+  {
+   "id": "31632006",
+   "rubrik": "Lagermedarbetare med fokus på IT-packning i Hofors",
+   "arbetsgivare": "Simplex Bemanning AB",
+   "ort": "Hofors",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Heltid, tillsvidare via bemanningsföretag, start omgående. Paketera IT-artiklar, kvalitetskontroll, märkning av försändelser och registrering med handscanner i ett modernt lager. Lön 185 kr/timme.",
+   "krav": "Noggrann, följer instruktioner, trivs med fysiskt arbete, svenska eller engelska. Meriterande: erfarenhet av lager/packning/produktion, handscanner. Urval sker löpande.",
+   "sista_dag": "2026-11-21",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31632006",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "31631877",
+   "rubrik": "Underhållstekniker till Elis tvätteri i Ockelbo",
+   "arbetsgivare": "Elis Textil Service AB",
+   "ort": "Ockelbo",
+   "kategori": "Industri",
+   "beskrivning": "Heltid i underhållsteam med rullande skift. Dagligt och förebyggande underhåll av tvättmaskiner, transportband, torktumlare, ventilation, panna/ånga samt fastighetsskötsel. Mekanik, pneumatik, hydraulik, VVS och el.",
+   "krav": "Minst gymnasieexamen och intresse för teknik, gärna erfarenhet som mekaniker/tekniker eller drift/underhåll. God datorvana, svenska i tal och skrift, B-körkort. Meriterande: el-behörighet, engelska.",
+   "sista_dag": "2027-04-20",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31631877",
+   "first_seen": "2026-10-22"
+  },
+  {
+   "id": "31631593",
+   "rubrik": "Praktisk problemlösare för varierat servicejobb i Gävle",
+   "arbetsgivare": "Randstad AB (rekryterar åt kund)",
+   "ort": "Gävle",
+   "kategori": "Fastighet/vaktmästare",
+   "beskrivning": "Heltid, tillsvidare direkt hos kunden, start omgående. Servicejobb i möblerade företagslägenheter: montering och möblering, enklare fastighetsskötsel, felsökning och underhåll, bära och transportera möbler från lagret, viss städning vid in- och utflytt.",
+   "krav": "B-körkort, trivs med fysiskt arbete, goda kunskaper i svenska och engelska, grundläggande datorvana. Meriterande: hantverk/fastighetsunderhåll (montering, borrning, bättringsmålning). Urval sker löpande.",
+   "sista_dag": "2027-02-04",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31631593",
+   "first_seen": "2026-10-22"
+  },
   {
    "id": "31626933",
    "rubrik": "CNC-operatör till stor industrikund i Sandviken",
@@ -527,18 +563,6 @@
    "krav": "Intresseannons (Temp-Team). Gymnasieexamen + 6 mån lager/handelserfarenhet, engelska, svenskt pass/PUT.",
    "sista_dag": "2026-10-30",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31540052",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31535484",
-   "rubrik": "Mekaniker sökes till Ovako i Hofors, Ringverket",
-   "arbetsgivare": "Ovako AB",
-   "ort": "Hofors",
-   "kategori": "Industri",
-   "beskrivning": "Mekaniker på Ovakos Ringverk – förebyggande underhåll, förbättringar och akuta reparationer.",
-   "krav": "Dagtid, tillsvidare. 3-årig gymnasieutbildning mek/industri eller motsvarande erfarenhet. B-körkort.",
-   "sista_dag": "2026-10-21",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31535484",
    "first_seen": "2026-10-08"
   },
   {
