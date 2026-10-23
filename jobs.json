@@ -1,6 +1,30 @@
 {
- "senast_uppdaterad": "2026-10-22",
+ "senast_uppdaterad": "2026-10-23",
  "jobb": [
+  {
+   "id": "31637068",
+   "rubrik": "Hållplatstekniker till X-trafik Gästrikland",
+   "arbetsgivare": "Region Gävleborg (X-trafik)",
+   "ort": "Gävle",
+   "kategori": "Fastighet/vaktmästare",
+   "beskrivning": "Heltid, tillsvidare, dagtid mån–fre. Tillsyn, service och reparation av busshållplatser, skyltar och väderskydd i hela Gävleborg, enklare bygg- och markarbeten och uppsättning av information vid omledningar. Utgår från Gävle med servicebil.",
+   "krav": "Utbildning inom t.ex. bygg/anläggning, fordon/transport, el eller fastighet, alternativt likvärdig arbetslivserfarenhet. B-körkort och god svenska i tal och skrift. Meriterande: BE-körkort eller kompetens inom markentreprenad.",
+   "sista_dag": "2026-11-07",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31637068",
+   "first_seen": "2026-10-23"
+  },
+  {
+   "id": "31635888",
+   "rubrik": "Lagerpersonal i Gävle sökes",
+   "arbetsgivare": "Astani Wear AB (via Agil Rekrytering)",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Extrajobb/behovsanställning på lager hos kund i Gävle, start omgående. Plock och pack, hantering av inkommande leveranser och ordning i lagret.",
+   "krav": "Noggrann och strukturerad, trivs med fysiskt arbete i högt tempo, talar svenska eller engelska. Urval sker löpande.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31635888",
+   "first_seen": "2026-10-23"
+  },
   {
    "id": "31632006",
    "rubrik": "Lagermedarbetare med fokus på IT-packning i Hofors",
@@ -623,18 +647,6 @@
    "krav": "Kräver erfarenhet av fönstermontage eller bygg + B-körkort.",
    "sista_dag": "2026-11-23",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31515745",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31504503",
-   "rubrik": "Jobba på lager i Gävle",
-   "arbetsgivare": "Astani Wear AB",
-   "ort": "Gävle",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Extrajobb på lager – plock och pack och hantering av inkommande leveranser.",
-   "krav": "Behovsanställning (Agil Rekrytering). Svenska eller engelska.",
-   "sista_dag": "2026-10-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31504503",
    "first_seen": "2026-10-08"
   },
   {
