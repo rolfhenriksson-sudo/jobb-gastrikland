@@ -1,6 +1,30 @@
 {
- "senast_uppdaterad": "2026-10-23",
+ "senast_uppdaterad": "2026-10-26",
  "jobb": [
+  {
+   "id": "31644342",
+   "rubrik": "Verkstadsmedarbetare till Ramirent i Gävle",
+   "arbetsgivare": "Ramirent (via StudentConsulting)",
+   "ort": "Gävle",
+   "kategori": "Industri",
+   "beskrivning": "Heltid, tillsvidare efter 6 mån provanställning, start omgående, vardagar 07–16. Mottagning, funktionskontroll, felsökning, service och reparation av hyrmaskiner och verktyg, tvätt av maskiner och kundkontakt på kundcentret i Gävle och ute hos kund.",
+   "krav": "Tekniskt intresse, B-körkort och grundläggande IT-kunskaper. Meriterande: truckkort, erfarenhet av maskiner eller byggbranschen, BE-körkort.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31644342",
+   "first_seen": "2026-10-26"
+  },
+  {
+   "id": "31639792",
+   "rubrik": "Lastmaskinist – Sälgsjön",
+   "arbetsgivare": "Heidelberg Materials Ballast Sverige AB",
+   "ort": "Gävle (Sälgsjön)",
+   "kategori": "Industri",
+   "beskrivning": "Heltid, vanlig anställning vid grus- och bergtäkten i Sälgsjön. Lastning av kundfordon, upplagshantering, drift av mobil och fast processanläggning samt reparations- och underhållsarbete.",
+   "krav": "Yrkesbevis och erfarenhet av lastmaskin. Meriterande: erfarenhet av berg-, sand- och jordprodukter samt utlastning med våg.",
+   "sista_dag": "2026-11-21",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31639792",
+   "first_seen": "2026-10-26"
+  },
   {
    "id": "31637068",
    "rubrik": "Hållplatstekniker till X-trafik Gästrikland",
@@ -206,18 +230,6 @@
    "first_seen": "2026-10-16"
   },
   {
-   "id": "31601358",
-   "rubrik": "CNC-operatör till industrikund i Sandviken",
-   "arbetsgivare": "Manpower Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Köra och övervaka CNC-maskiner, mäta och kvalitetskontrollera detaljer. Skift kan förekomma. 6 månader med möjlighet till förlängning.",
-   "krav": "CNC-utbildning eller motsvarande erfarenhet. Truck- och traverskort meriterande. Heltid.",
-   "sista_dag": "2026-10-25",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31601358",
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "31600346",
    "rubrik": "Lokalvårdare i Gävle (deltid)",
    "arbetsgivare": "Rengörare Näslund Aktiebolag",
@@ -266,18 +278,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "id": "31599031",
-   "rubrik": "Lagersäljare till C24 Bygg i Ockelbo",
-   "arbetsgivare": "C24 Bygg Kompaniet AB (XL-Bygg)",
-   "ort": "Ockelbo",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Jobb på brädgården: hjälpa kunder med material, plocka order, ta emot gods och fylla på. Ibland butik och kassa.",
-   "krav": "Intresse för bygg och byggmaterial är meriterande. Svenska. Heltid, tillsvidare.",
-   "sista_dag": "2026-10-25",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31599031",
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "31598108",
    "rubrik": "Taxichaufför",
    "arbetsgivare": "Sveso AB",
@@ -311,18 +311,6 @@
    "krav": "Kvalifikationer Vi söker dig som har erfarenhet inom service eller montagearbete med inriktning ventilation, meriterande är om du innehar OVK-behörighet eller erfarenhet inom styr- och reglerteknik. F…",
    "sista_dag": "2026-11-29",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31596940",
-   "first_seen": "2026-10-14"
-  },
-  {
-   "id": "31596200",
-   "rubrik": "Barnskötare till Fäbogården",
-   "arbetsgivare": "Sandvikens kommun",
-   "ort": "Sandviken",
-   "kategori": "Övrigt",
-   "beskrivning": "I Sandvikens kommun gör vi varandra bättre. Vår kultur präglas av helhetssyn, samverkan och dialog, där chefer och medarbetare tillsammans skapar värde för Sandvikens medborgare. När vi tar tillvara på varandras olikheter och arbetar mot gemensamma mål, bygger vi en hållbar,…",
-   "krav": "KVALIFIKATIONER Som barnskötare hos oss behöver du vara trygg i din yrkesroll och ha förmåga att skapa tillitsfulla relationer med både barn och kollegor. Du har ett reflekterande och nyfiket förhålln…",
-   "sista_dag": "2026-10-25",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31596200",
    "first_seen": "2026-10-14"
   },
   {
@@ -410,18 +398,6 @@
    "first_seen": "2026-10-12"
   },
   {
-   "id": "31577099",
-   "rubrik": "Montörer för kommande uppdrag | Lernia | Gävle",
-   "arbetsgivare": "Lernia Bemanning AB",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Montering och produktionsarbete hos Lernias industrikunder i Gävle.",
-   "krav": "Gymnasieutbildning och B-körkort.",
-   "sista_dag": "2026-10-25",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31577099",
-   "first_seen": "2026-10-09"
-  },
-  {
    "id": "31575365",
    "rubrik": "CNC-operatörer inom både svarvning och fräsning",
    "arbetsgivare": "Dala Industrisupport AB",
@@ -443,18 +419,6 @@
    "krav": "Erfarenhet av manuell svarvning. Urval löpande.",
    "sista_dag": "2026-11-23",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31575311",
-   "first_seen": "2026-10-09"
-  },
-  {
-   "id": "31563953",
-   "rubrik": "Produktionstekniker till Carlsson RPS",
-   "arbetsgivare": "Carlsson RPS AB",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Produktionsteknikerarbete hos Carlsson RPS i Hedesunda.",
-   "krav": "Teknisk erfarenhet meriterande.",
-   "sista_dag": "2026-10-25",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31563953",
    "first_seen": "2026-10-09"
   },
   {
