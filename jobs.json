@@ -1,6 +1,54 @@
 {
- "senast_uppdaterad": "2026-10-29",
+ "senast_uppdaterad": "2026-10-30",
  "jobb": [
+  {
+   "id": "31665106",
+   "rubrik": "Skadedjurstekniker till Rentokil Gävle",
+   "arbetsgivare": "Rentokil Sverige AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Tillsvidareanställning med egen servicebil. Inspektioner och sanering mot skadedjur, men också praktiskt byggnadstekniskt arbete som att täta fastigheter och montera fågelskydd. Dagtid på vardagar, intern utbildning och certifiering ingår.",
+   "krav": "Praktiskt lagd och serviceinriktad, personlighet väger tyngst. B-körkort.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31665106",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "31664474",
+   "rubrik": "C-chaufför för nattjobb (ons–fre) till april",
+   "arbetsgivare": "Lastbilsstation Gävle (Skellefteå Lastbilsstation AB)",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Timvikariat till april med möjlighet till förlängning. Nattkörning onsdag–fredag från terminalen i Gävle med distribution i Söderhamn med omnejd, plus sortering, scanning, lastning och lossning av gods. Tjänsten kan tillsättas före sista dag.",
+   "krav": "C-behörighet, YKB, ADR och god svenska. CE, truckkort och erfarenhet av styckegods är meriterande.",
+   "sista_dag": "2026-12-18",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31664474",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "31664109",
+   "rubrik": "CNC-operatör/CNC-svarvare till Ovako i Hofors",
+   "arbetsgivare": "Ovako AB",
+   "ort": "Hofors",
+   "kategori": "Industri",
+   "beskrivning": "Ovako har startat en ny verksamhet för svarvning av ringar i Hofors och söker en CNC-svarvare som tar ansvar för hela bearbetningen, från planering och programmering till uppspänning, bearbetning och kvalitetskontroll.",
+   "krav": "Flerårig erfarenhet av CNC-svarvning och egen programmering, ritningsläsning och mätteknik, verkstadsutbildning eller motsvarande erfarenhet, god svenska, datorvana och B-körkort.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31664109",
+   "first_seen": "2026-10-30"
+  },
+  {
+   "id": "31662966",
+   "rubrik": "Brevbärare Gävle, extrajobb",
+   "arbetsgivare": "PostNord Group AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Extrajobb 0–40 % med 2–4 pass i veckan, dagtid måndag–fredag. Sortera och dela ut brev, paket och tidningar med bil eller elfordon från Katrineborgsgatan i Gävle. Pass ofta med kort varsel.",
+   "krav": "B-körkort, god svenska, gymnasieexamen, god kondition och servicekänsla.",
+   "sista_dag": "2026-11-05",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31662966",
+   "first_seen": "2026-10-30"
+  },
   {
    "id": "31660591",
    "rubrik": "Fastighetstekniker (vikariat)",
@@ -323,18 +371,6 @@
    "krav": "Erfarenhet från industrin eller relevant utbildning. Heltid.",
    "sista_dag": "2026-11-14",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31599932",
-   "first_seen": "2026-10-15"
-  },
-  {
-   "id": "31599262",
-   "rubrik": "Butiksmedarbetare – heltid",
-   "arbetsgivare": "Hirely AB (på uppdrag av kund)",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Kundservice, kassa, varupåfyllning, ta emot leveranser och lagerhantering i butik.",
-   "krav": "Serviceinriktad, goda kunskaper i svenska. Heltid.",
-   "sista_dag": "2026-10-29",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31599262",
    "first_seen": "2026-10-15"
   },
   {
