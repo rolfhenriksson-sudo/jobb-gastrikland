@@ -1,6 +1,66 @@
 {
- "senast_uppdaterad": "2026-10-30",
+ "senast_uppdaterad": "2026-11-02",
  "jobb": [
+  {
+   "id": "31674387",
+   "rubrik": "Parkskötare Trädvård",
+   "arbetsgivare": "Sandvikens kommun",
+   "ort": "Sandviken",
+   "kategori": "Skog/trä",
+   "beskrivning": "Tillsvidareanställning på Tekniska kontoret med praktiskt utomhusarbete året runt: trädbeskärning och trädvård, skötsel av parker och grönområden, slyröjning, maskinkörning, enklare underhåll samt snöröjning med beredskap vintertid. Tillträde 1 mars 2027.",
+   "krav": "B-körkort (manuell), motorsågskörkort AB och erfarenhet av park-, anläggnings- eller grönyteskötsel samt trädvård. Motorsågskörkort C, hjullastarbevis och BE-körkort är meriterande.",
+   "sista_dag": "2026-11-29",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31674387",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "31670853",
+   "rubrik": "Kontorsservicegeneralist till Verksamhetsstöd i Gävle",
+   "arbetsgivare": "Försäkringskassan",
+   "ort": "Gävle",
+   "kategori": "Fastighet/vaktmästare",
+   "beskrivning": "Tillsvidare på heltid. Varierat kontorsservicejobb: lokalförvaltning, flyttar och möblering, post- och godshantering, säkerhet och IT-support på plats. Tunga lyft och resor i tjänsten förekommer.",
+   "krav": "Gymnasieexamen eller likvärdig erfarenhet, god datorvana och B-körkort. Säkerhetsprövning och bakgrundskontroll görs.",
+   "sista_dag": "2026-11-23",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31670853",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "31670405",
+   "rubrik": "Brevbärare/paketbud – Gävle",
+   "arbetsgivare": "CityMail Sweden AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Heltid på ett helt nytt CityMail-kontor i Gävle. Sortera post och paket och dela ut med elcykel, Paxster eller bil, helgfria vardagar. Fysiskt och aktivt jobb utomhus.",
+   "krav": "Minst 18 år och grundläggande svenska. B-körkort och tidigare erfarenhet är meriterande men inget krav.",
+   "sista_dag": "2026-11-12",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31670405",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "31670306",
+   "rubrik": "Renhållningsarbetare chaufför",
+   "arbetsgivare": "Gästrike återvinnare",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Fem tillsvidaretjänster med insamling och transport av hushålls- och verksamhetsavfall, körning av alla fordonstyper och skötsel av fordon. Lön 38 000–39 710 kr. Urval sker löpande.",
+   "krav": "CE-körkort, YKB, ADR, truck- och krankort samt fem års dokumenterad erfarenhet inom renhållning, transport eller entreprenad.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31670306",
+   "first_seen": "2026-11-02"
+  },
+  {
+   "id": "31669078",
+   "rubrik": "Delivery Driver Gävle (paketbud)",
+   "arbetsgivare": "Mec Transport AB",
+   "ort": "Gävle (Valbo)",
+   "kategori": "Transport",
+   "beskrivning": "Behovsanställning som paketbud åt Instabox, Budbee och Airmee. Kvällsarbete ca 15.30–23.00, minst fem dagar i veckan varav en helgdag.",
+   "krav": "B-körkort (manuell), god engelska och minst ett års erfarenhet av budkörning.",
+   "sista_dag": "2026-11-20",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31669078",
+   "first_seen": "2026-11-02"
+  },
   {
    "id": "31665106",
    "rubrik": "Skadedjurstekniker till Rentokil Gävle",
@@ -254,18 +314,6 @@
    "first_seen": "2026-10-19"
   },
   {
-   "id": "31611407",
-   "rubrik": "Liftvärd till Hemlingbybacken",
-   "arbetsgivare": "Gävle kommun",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Timvikarie i skidbacken under snösäsongen: hjälpa gäster i liftarna, kassa och liftkort, besiktning och enklare underhåll av liftar och backar, städning och ved till grillplatserna. 6 platser.",
-   "krav": "God svenska. Kvällar och helger enligt schema. Meriterande: servicevana, erfarenhet av liftar/backunderhåll, skoterkort.",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31611407",
-   "first_seen": "2026-10-19"
-  },
-  {
    "id": "31608450",
    "rubrik": "Maskinoperatör till tillverkningsindustri i Sandviken",
    "arbetsgivare": "Randstad AB",
@@ -350,18 +398,6 @@
    "first_seen": "2026-10-15"
   },
   {
-   "id": "31600083",
-   "rubrik": "Larminstallatör (deltid)",
-   "arbetsgivare": "Svenska Alarm Gruppen AB",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Kundbesök, montering av trådlösa larm och programmering av komponenter.",
-   "krav": "Tekniskt intresse, social, van vid handverktyg. Deltid. Sista dag 30 okt.",
-   "sista_dag": "2026-10-30",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31600083",
-   "first_seen": "2026-10-15"
-  },
-  {
    "id": "31599932",
    "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
    "arbetsgivare": "Manpower Aktiebolag",
@@ -407,30 +443,6 @@
    "krav": "Kvalifikationer Vi söker dig som har erfarenhet inom service eller montagearbete med inriktning ventilation, meriterande är om du innehar OVK-behörighet eller erfarenhet inom styr- och reglerteknik. F…",
    "sista_dag": "2026-11-29",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31596940",
-   "first_seen": "2026-10-14"
-  },
-  {
-   "id": "31595372",
-   "rubrik": "Personlig assistent sökes till man i Hille, Gävle",
-   "arbetsgivare": "Kavon Care AB",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Personlig assistent sökes som söker ett extrajobb– dygnspass med jour Vi söker en personlig assistent till en man i 35-årsåldern som bor i egen lägenhet i Hille, Gävle. Arbetet innebär att vara ett stöd i vardagen och hjälpa till med bland annat: * personlig hygien *…",
-   "krav": "Vi söker dig som: * är rökfri (krav) * har en god fysisk grundstyrka, då det förekommer en del lyft * är lugn, trygg och ansvarsfull * har god samarbetsförmåga och kan arbeta självständigt * behärskar…",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31595372",
-   "first_seen": "2026-10-14"
-  },
-  {
-   "id": "31593973",
-   "rubrik": "Stödassistent Idrottsallén 28",
-   "arbetsgivare": "Gävle kommun",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Vill du vara med och göra Gävle ännu bättre med oss? I Gävle kommun arbetar vi engagerat tillsammans för att kunna erbjuda våra invånare en trygg och inspirerande miljö. Vi erbjuder dig en tillitsfull arbetsplats där du kan utvecklas i ditt arbete och växa som människa.…",
-   "krav": "KVALIFIKATIONER Formella kompetenser (krav) För att vara aktuell för tjänsten har du: • godkänd gymnasieutbildning från Vård- och omsorgsprogrammet eller Barn- och fritidsprogrammet med inriktning soc…",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31593973",
    "first_seen": "2026-10-14"
   },
   {
@@ -506,30 +518,6 @@
    "first_seen": "2026-10-09"
   },
   {
-   "id": "31572908",
-   "rubrik": "Vaktmästare",
-   "arbetsgivare": "Kungsbergets Fritidsanläggningar Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Fastighet/vaktmästare",
-   "beskrivning": "Säsongsvaktmästare på skidorten Kungsberget – snickra, reparera och lösa problem i boenden och anläggning.",
-   "krav": "Säsong okt/nov–april, deltid; helg och beredskap. Körkort + bil krav. Kungsberget (Järbo), Sandvikens kommun.",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31572908",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31572894",
-   "rubrik": "Fastighetsskötare",
-   "arbetsgivare": "Kungsbergets Fritidsanläggningar Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Fastighet/vaktmästare",
-   "beskrivning": "Säsongsfastighetsskötare på Kungsberget – drift och underhåll av fastigheter och staket, lastmaskinskörning, varuhantering.",
-   "krav": "Säsong okt–april, deltid; helg/beredskap. Körkort + bil krav; snickerikunskap meriterande.",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31572894",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31569014",
    "rubrik": "Spotters for Datacenter Construction Site in Sandviken",
    "arbetsgivare": "NorthLane Group AB",
@@ -590,18 +578,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31557606",
-   "rubrik": "Mekaniker till Högbo Golfklubb",
-   "arbetsgivare": "Högbo Golfklubb",
-   "ort": "Sandviken",
-   "kategori": "Skog/trä",
-   "beskrivning": "Mekaniker för golfklubbens maskinpark som även deltar i klippning och skötsel av banan.",
-   "krav": "Tillsvidare, heltid. Kräver erfarenhet av maskin-/fordonsservice + B-körkort.",
-   "sista_dag": "2026-10-31",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31557606",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31551764",
    "rubrik": "Lagerarbetare i Gävle sökes - Extrajobb",
    "arbetsgivare": "STB Stockholm AB",
@@ -611,42 +587,6 @@
    "krav": "Behovsanställning, flexibla tider. Ingen erfarenhet krävs.",
    "sista_dag": "2026-11-04",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31551764",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31547551",
-   "rubrik": "Industrimekaniker/underhållstekniker till JEMedic i Gävle",
-   "arbetsgivare": "TIKK TAKK TIME SWEDEN AB",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Industrimekaniker/underhållstekniker på JEMedic – felsöka och reparera produktions- och packlinjer.",
-   "krav": "TIKKTAKK, chans till anställning hos kund. Kräver erfarenhet som industrimekaniker. (Äldre dubblett 31479704, sista dag 15 okt.)",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31547551",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31540052",
-   "rubrik": "Open application - Logistic Support to World Leading Tech Company",
-   "arbetsgivare": "TEMP-TEAM Sverige AB",
-   "ort": "Gävle",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Lager-/logistikstöd i datacenter för stort techföretag – godsmottagning, inventering och registrering.",
-   "krav": "Intresseannons (Temp-Team). Gymnasieexamen + 6 mån lager/handelserfarenhet, engelska, svenskt pass/PUT.",
-   "sista_dag": "2026-10-30",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31540052",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31534658",
-   "rubrik": "Servicetekniker till Ockelbo - John Deere Forestry AB",
-   "arbetsgivare": "Jobbet.se Sverige AB",
-   "ort": "Ockelbo",
-   "kategori": "Skog/trä",
-   "beskrivning": "Servicetekniker för John Deeres skogsmaskiner – felsökning, reparation och underhåll ute i skogen och i verkstaden.",
-   "krav": "Kräver flera års erfarenhet av maskin-/fordonsreparation ELLER bakgrund som skogsmaskinförare, mekanisk utbildning, B-körkort. C-kort meriterande.",
-   "sista_dag": "2026-10-31",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31534658",
    "first_seen": "2026-10-08"
   },
   {
@@ -674,18 +614,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31492276",
-   "rubrik": "Atling – CNC-operatörer till Ockelbo",
-   "arbetsgivare": "Infinity Industry Solutions Sweden AB",
-   "ort": "Ockelbo",
-   "kategori": "Industri",
-   "beskrivning": "CNC-operatör (främst fräsning) hos Atling i Ockelbo med ritningsläsning, mätning och kvalitetskontroll.",
-   "krav": "Konsult via Infinity, 6 mån+. Kräver CNC-erfarenhet.",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31492276",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31488580",
    "rubrik": "Godsvagnsreparatörer till Gävle",
    "arbetsgivare": "Uniflex AB",
@@ -698,18 +626,6 @@
    "first_seen": "2026-10-08"
   },
   {
-   "id": "31422828",
-   "rubrik": "Vaktmästare / allt-i-allo timanställning, flexibelt upplägg",
-   "arbetsgivare": "Linneahusen AB",
-   "ort": "Gävle",
-   "kategori": "Fastighet/vaktmästare",
-   "beskrivning": "Timanställd allt-i-allo för möblerade lägenheter – möbelmontering, flyttstäd, inredning, gräsklippning och körning med släp.",
-   "krav": "Timanställning/flexibelt (Valbo). B-körkort krav; bygg/inredning meriterande.",
-   "sista_dag": "2026-11-01",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31422828",
-   "first_seen": "2026-10-08"
-  },
-  {
    "id": "31401104",
    "rubrik": "CNC-operatör till Ockelbo Lego-mek",
    "arbetsgivare": "OnePartnerGroup Södra Norrland AB",
@@ -719,18 +635,6 @@
    "krav": "Tvåskift eller ständig natt. Ca 1 månads introduktion. Några års erfarenhet av mekanik/verkstad. SISTA DAG 9 okt (i morgon).",
    "sista_dag": "2026-11-08",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31401104",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31389765",
-   "rubrik": "Mark- och anläggningsarbete",
-   "arbetsgivare": "NW NORDIC AB",
-   "ort": "Gävle",
-   "kategori": "Bygg/snickeri",
-   "beskrivning": "Mark- och anläggningsarbete: schakt, VA/rörläggning, stensättning och plattläggning.",
-   "krav": "Tillsvidare, heltid, 2 tjänster. Kräver dokumenterad erfarenhet av mark/anläggning + B-körkort. Arbetsområde Gävleborg.",
-   "sista_dag": "2026-10-30",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31389765",
    "first_seen": "2026-10-08"
   },
   {
