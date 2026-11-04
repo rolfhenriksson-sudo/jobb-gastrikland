@@ -1,6 +1,54 @@
 {
- "senast_uppdaterad": "2026-11-03",
+ "senast_uppdaterad": "2026-11-04",
  "jobb": [
+  {
+   "id": "31685788",
+   "rubrik": "Produktionsarbetare",
+   "arbetsgivare": "Stena Recycling AB",
+   "ort": "Gävle",
+   "kategori": "Industri",
+   "beskrivning": "Tillsvidaretjänst på heltid, dagtid 07–16, på Stena Recyclings anläggning i Gävle. Du tar emot, väger och sorterar material, kör hjullastare och truck och sköter enklare underhåll av maskinerna. Gedigen introduktion ingår.",
+   "krav": "Gymnasieutbildning eller motsvarande, B-körkort, truckkort (C2), god svenska och grundläggande Office-kunskaper. Erfarenhet från industri, lager eller maskinkörning är meriterande.",
+   "sista_dag": "2026-12-25",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31685788",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "31685690",
+   "rubrik": "Brevbärare Gävle, Tidsbegränsad anställning",
+   "arbetsgivare": "PostNord Group AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Heltid måndag–fredag ca 08–17 med start omgående till och med vecka 10, chans till förlängning. Du sorterar och delar ut post med bil, elfordon eller moped från Katrineborgsgatan i Gävle.",
+   "krav": "B-körkort och trygg i trafiken, gymnasieexamen, svenska i tal och skrift, god kondition.",
+   "sista_dag": "2026-12-04",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31685690",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "31683271",
+   "rubrik": "Smörjare till Förebyggande Underhåll, Gävle Bruk (vikariat)",
+   "arbetsgivare": "Billerud Skog & Industri Aktiebolag",
+   "ort": "Gävle",
+   "kategori": "Industri",
+   "beskrivning": "Vikariat på heltid i cirka fyra månader, dagtid, på Gävle Bruk. Du går smörjrundor och inspektioner på brukets produktionsutrustning och rapporterar avvikelser. Tjänsten tillsätts så snart som möjligt.",
+   "krav": "Kunskaper inom förebyggande eller mekaniskt underhåll från gymnasiet eller tidigare jobb, god svenska och engelska, B-körkort.",
+   "sista_dag": "2026-11-11",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31683271",
+   "first_seen": "2026-11-04"
+  },
+  {
+   "id": "31673517",
+   "rubrik": "Food Courier - Car in Sandviken",
+   "arbetsgivare": "Foodora AB",
+   "ort": "Sandviken",
+   "kategori": "Transport",
+   "beskrivning": "Deltid/extrajobb som matbud med egen bil i Sandviken. Du väljer själv dina arbetstider, snittinkomst ca 180 kr/timme, väska och kläder ingår. Ingen erfarenhet krävs.",
+   "krav": "Egen svenskregistrerad bil, smartphone, körkort, svenskt bankkonto och grundläggande svenska eller engelska.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31673517",
+   "first_seen": "2026-11-04"
+  },
   {
    "id": "31676281",
    "rubrik": "Mekaniker sökes till Centralt skiftunderhåll i Hofors",
