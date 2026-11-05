@@ -1,6 +1,66 @@
 {
- "senast_uppdaterad": "2026-11-04",
+ "senast_uppdaterad": "2026-11-05",
  "jobb": [
+  {
+   "id": "31690074",
+   "rubrik": "Timvikarie omvårdnadspersonal till Villa Vallonen",
+   "arbetsgivare": "Vardaga AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Timvikarie på demenscertifierat äldreboende Villa Vallonen i Gävle (Vallongatan 5). Ger omvårdnad och livskvalitet till boende; introduktionsutbildning (vårdhygien, demensbemötande, ergonomi) ingår.",
+   "krav": "God svenska i tal och skrift. Undersköterskeutbildning och erfarenhet från äldreomsorg ses gärna men CV är inte det viktigaste – rätt egenskaper väger tungt. Belastningsregisterutdrag krävs.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31690074",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "31688132",
+   "rubrik": "Extrajobb på lager - Gävle",
+   "arbetsgivare": "STB Stockholm AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Extrajobb/behovsanställning via Next Bemanning hos kund i Gävle. Plock och pack, mottagning av leveranser, sortering, märkning, returer och enklare lageradministration. Flexibla tider dag/kväll/helg, start omgående.",
+   "krav": "Noggrann, van vid fysiskt arbete, god samarbetsförmåga, svenska eller engelska och grundläggande datorvana. Lagererfarenhet meriterande men inget krav.",
+   "sista_dag": "2026-12-06",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31688132",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "31687875",
+   "rubrik": "Personlig assistent",
+   "arbetsgivare": "Ockelbos Personligaste Assistans AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Timvikarie som personlig assistent hos kund i Gävle (Hattmakargatan). Hjälper till med vardagsrutiner, personlig omvårdnad, aktiviteter och förflyttningar. Start som timvikarie med chans till fast schemarad på deltid.",
+   "krav": "Minst 18 år, god svenska, lyhörd och ansvarsfull. Erfarenhet av vård/omsorg meriterande men inget krav. ID-handling, personbevis och registerutdrag krävs vid anställning.",
+   "sista_dag": "2026-12-01",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31687875",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "31687750",
+   "rubrik": "Kundinformatör till X-trafik",
+   "arbetsgivare": "REGION GÄVLEBORG",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Tillsvidare på 75 %, tillträde 18 januari 2027, på X-trafiks kundcenter i Gävle. Vägleder resenärer över disk om resor, biljetter och digitala kanaler, hanterar synpunkter, reklamationer, administration och hittegods. Provanställning tillämpas.",
+   "krav": "Slutförd gymnasieutbildning, erfarenhet av kvalificerad kundservice i direkt kundkontakt, god datorvana, god svenska och engelska i tal och skrift. Flera språk meriterande.",
+   "sista_dag": "2026-11-18",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31687750",
+   "first_seen": "2026-11-05"
+  },
+  {
+   "id": "31687579",
+   "rubrik": "Restaurangmedarbetare",
+   "arbetsgivare": "Kungsbergets Fritidsanläggningar Aktiebolag",
+   "ort": "Sandviken",
+   "kategori": "Övrigt",
+   "beskrivning": "Säsong november/december–april på Kungsberget (Järbo, Sandvikens kommun). Servering, kassa, disk, dukning och övriga restaurangsysslor. Upplärning ingår; HRF-avtal, rabatter på skidutrustning och boende.",
+   "krav": "Bekväm med svenska och engelska i tal och skrift, serviceinriktad och stresstålig. Restaurangerfarenhet, kassavana och körkort/bil meriterande.",
+   "sista_dag": "2026-11-19",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31687579",
+   "first_seen": "2026-11-05"
+  },
   {
    "id": "31685788",
    "rubrik": "Produktionsarbetare",
@@ -635,18 +695,6 @@
    "krav": "Konsultia. Kräver flera års svetserfarenhet.",
    "sista_dag": "2026-11-05",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31558470",
-   "first_seen": "2026-10-08"
-  },
-  {
-   "id": "31551764",
-   "rubrik": "Lagerarbetare i Gävle sökes - Extrajobb",
-   "arbetsgivare": "STB Stockholm AB",
-   "ort": "Gävle",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Extrajobb på lager – plock och pack, godsmottagning, sortering och returer.",
-   "krav": "Behovsanställning, flexibla tider. Ingen erfarenhet krävs.",
-   "sista_dag": "2026-11-04",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31551764",
    "first_seen": "2026-10-08"
   },
   {
