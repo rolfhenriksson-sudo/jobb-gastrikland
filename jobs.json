@@ -1,6 +1,126 @@
 {
- "senast_uppdaterad": "2026-11-11",
+ "senast_uppdaterad": "2026-11-12",
  "jobb": [
+  {
+   "id": "31722413",
+   "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
+   "arbetsgivare": "Manpower Aktiebolag",
+   "ort": "Gävle/Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Via Manpower till uppdrag hos kunder inom tillverkande industri i Sandviken och Gävle. Produktion, maskinövervakning, CNC-arbete, truckkörning och materialhantering beroende på uppdrag. Konsultuppdrag, start enligt överenskommelse. Olika skiftformer kan förekomma (dag, 2-, 3-, 4- eller 5-skift). Bakgrundskontroll ingår.",
+   "krav": "Flytande svenska i tal och skrift. B-körkort och tillgång till bil. Erfarenhet från industri, CNC, svets, samt truck- och traverskort meriterande.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31722413",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31721946",
+   "rubrik": "Instabee Gävle söker Budbilschaufförer och Terminalarbetare (deltid)",
+   "arbetsgivare": "Flexio Work AB",
+   "ort": "Gävle",
+   "kategori": "Transport",
+   "beskrivning": "Deltid hos Instabee i Gävle via Flexio Work. Sortering, scanning, plockning och budbilskörning på terminalen. Cirka 2–3 dagar i veckan, flexibla tider 11–15 eller 11–19, helgarbete förekommer. Visstidsanställning, deltid vid behov. Tjänsten förutsätter att du studerar eller har annat jobb på minst 50 procent. Hantering av lådor med alkohol ingår.",
+   "krav": "Minst 18 år, B-körkort (manuell), god fysik, svenska eller engelska i tal och skrift, och annan sysselsättning på minst 50 procent. Rent brottsregister. Truckkort och liknande erfarenhet meriterande.",
+   "sista_dag": "2026-12-12",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31721946",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31721371",
+   "rubrik": "CNC-operatör till Ockelbo Lego-mek",
+   "arbetsgivare": "OnePartnerGroup Södra Norrland AB",
+   "ort": "Ockelbo",
+   "kategori": "Industri",
+   "beskrivning": "Via OnePartnerGroup till Ockelbo Lego-Mek. Operera och övervaka CNC-maskiner, läsa ritningar, byta program och verktyg samt utföra enklare underhåll. Ingen programmering krävs. Introduktion bredvid erfaren kollega i cirka en månad. Tvåskift (förmiddag/eftermiddag) eller ständigt nattskift. Urval sker löpande.",
+   "krav": "Några års arbetslivserfarenhet, gärna inom mekanik eller verkstad. Skruvvan och tekniskt lagd. Flytande svenska. Truckkort meriterande.",
+   "sista_dag": "2026-12-17",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31721371",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31720983",
+   "rubrik": "Engagerad à la carte kock sökes till Gysinge Herrgård",
+   "arbetsgivare": "Jula Hotell AB",
+   "ort": "Gysinge",
+   "kategori": "Övrigt",
+   "beskrivning": "Tillsvidare på heltid med sex månaders provanställning på Gysinge Herrgård (hotell, restaurang och konferens vid Dalälven). Arbete i köket med fokus på kvalitet och lokala råvaror, och beredskap att hjälpa till på andra avdelningar. Arbetstiderna varierar och inkluderar vardagar och helger. Kollektivavtal via HRF. Urval sker löpande.",
+   "krav": "Dokumenterad erfarenhet från liknande tjänst. Passion för mat och service, van vid högt tempo och arbete i team. Goda kunskaper i svenska, gärna engelska.",
+   "sista_dag": "2026-11-29",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31720983",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31720045",
+   "rubrik": "CNC-operatör/Svarvare",
+   "arbetsgivare": "Randstad AB",
+   "ort": "Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Via Randstad till kund i Sandviken som tillverkar specialkomponenter i rostfria och höghållfasta material. Riggning, inställning och körning av CNC-styrda och manuella svarvar, mätning och verktygsunderhåll. Konsultuppdrag i 6 månader med avsikt att gå över till fast anställning. Start på dagtid, möjlighet till tvåskift längre fram.",
+   "krav": "Praktisk erfarenhet av svarvning eller fräsning från mekanisk verkstad/CNC-lego. God vana av ritningsläsning och mätteknik. Flytande svenska i tal och skrift. Erfarenhet av långhålsborrning, CNC-programmering/riggning och svårbearbetade material meriterande.",
+   "sista_dag": "2026-11-29",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31720045",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31720003",
+   "rubrik": "Säljare till Sonepar i Gävle",
+   "arbetsgivare": "Professionals Nord Sundsvall AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Via Professionals Nord till elgrossisten Sonepar i Gävle. Heltid som säljare med både butiksservice och aktiv bearbetning av nya och befintliga kunder, order och offerter. Erfarenhet från elbranschen krävs inte. Start enligt överenskommelse, urval sker löpande.",
+   "krav": "Tidigare erfarenhet av service, försäljning eller kundkontakt. God datorvana och god svenska i tal och skrift. Erfarenhet av el, teknik, B2B-försäljning eller offertarbete meriterande.",
+   "sista_dag": "2026-11-26",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31720003",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31719582",
+   "rubrik": "Mötesbokare B2B",
+   "arbetsgivare": "EB Affärspartner AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Tjänst på kontor i centrala Gävle. Kontakta företag per telefon, presentera uppdragsgivares tjänster och boka möten med beslutsfattare. Fast lön plus prestationsbaserad bonus. Urval sker löpande.",
+   "krav": "Kommunikativ och bekväm med telefon som arbetsverktyg. Målinriktad och strukturerad. Erfarenhet av mötesbokning, telemarketing eller försäljning meriterande men inget krav.",
+   "sista_dag": "2026-12-12",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31719582",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31719551",
+   "rubrik": "Särskild ställningsbyggare",
+   "arbetsgivare": "SafeWork rekrytering & utbildning i Sverige AB",
+   "ort": "Gävle",
+   "kategori": "Bygg/snickeri",
+   "beskrivning": "SafeWork söker en särskild ställningsbyggare (ställningar över 9 meter) till kund i Gävle. Bygga ställningar både i Gävle och på andra orter i landet, och kunna leda ett team.",
+   "krav": "Utbildningsbevis som särskild ställningsbyggare och vana av ställningsbygge. Körkort, god fysik och glatt humör.",
+   "sista_dag": "2026-12-23",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31719551",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31718372",
+   "rubrik": "Kundtjänstmedarbetare",
+   "arbetsgivare": "Randstad AB",
+   "ort": "Sandviken",
+   "kategori": "Övrigt",
+   "beskrivning": "Via Randstad till kund i Sandviken. Heltid i tre månader med möjlighet till förlängning, start omgående. Hantera ärenden via telefon, mejl, chatt och reception samt löpande administration, order- och fakturahantering.",
+   "krav": "Tidigare erfarenhet av kundservice, reception eller administration. Tillgänglig för start omgående (ingen uppsägningstid). God datorvana samt mycket god svenska och engelska i tal och skrift.",
+   "sista_dag": "2026-11-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31718372",
+   "first_seen": "2026-11-12"
+  },
+  {
+   "id": "31718293",
+   "rubrik": "GAMEMASTER",
+   "arbetsgivare": "UniQuests AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Ta emot gäster, förklara regler och leda upplevelsen på UniQuests i Gävle (äventyrs- och escape room-verksamhet på Staketgatan). Övervaka spelen, ge ledtrådar, återställa rum och sköta lättare underhåll av rekvisita, samt kassa och städ av lokalerna.",
+   "krav": "Obehindrad svenska och engelska i tal och skrift. Hög social kompetens och praktiskt handlag. Ansökan med CV och kort personligt brev.",
+   "sista_dag": "2026-11-25",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31718293",
+   "first_seen": "2026-11-12"
+  },
   {
    "id": "31717382",
    "rubrik": "Personbilssäljare",
@@ -563,18 +683,6 @@
    "krav": "B-körkort och trygg i trafiken, gymnasieexamen, svenska i tal och skrift, god kondition.",
    "sista_dag": "2026-12-04",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31685690",
-   "first_seen": "2026-11-04"
-  },
-  {
-   "id": "31683271",
-   "rubrik": "Smörjare till Förebyggande Underhåll, Gävle Bruk (vikariat)",
-   "arbetsgivare": "Billerud Skog & Industri Aktiebolag",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Vikariat på heltid i cirka fyra månader, dagtid, på Gävle Bruk. Du går smörjrundor och inspektioner på brukets produktionsutrustning och rapporterar avvikelser. Tjänsten tillsätts så snart som möjligt.",
-   "krav": "Kunskaper inom förebyggande eller mekaniskt underhåll från gymnasiet eller tidigare jobb, god svenska och engelska, B-körkort.",
-   "sista_dag": "2026-11-11",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31683271",
    "first_seen": "2026-11-04"
   },
   {
