@@ -1,6 +1,66 @@
 {
- "senast_uppdaterad": "2026-11-12",
+ "senast_uppdaterad": "2026-11-13",
  "jobb": [
+  {
+   "id": "31728910",
+   "rubrik": "Museivärd med butiks- och inköpsansvar till Järnvägsmuseet, Gävle",
+   "arbetsgivare": "Statens museer för maritim, transport- och försvarshistoria",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Tillsvidare på heltid som museivärd på Järnvägsmuseet i Gävle. Möta gäster i entré och butik, guida visningar, rondera lokalerna och hjälpa till vid evenemang. Extra ansvar för butiken: inköp, skyltning, lager, kassa och att hålla sortimentet aktuellt.",
+   "krav": "Lägst avslutad gymnasieutbildning. Erfarenhet av butiksarbete med kassa, sortiment, inköp och skyltning, samt av serviceverksamhet med många gäster. Mycket god svenska i tal och skrift och god talad engelska. Erfarenhet av visning och guidning meriterande.",
+   "sista_dag": "2026-11-27",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31728910",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "31728253",
+   "rubrik": "Elevassistenter till anpassad grundskola",
+   "arbetsgivare": "Gävle kommun",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Gävle kommun söker elevassistenter till anpassad grundskola, både vikariat och tillsvidareanställningar. Stödja elever i vardagen och bidra till en trygg, inkluderande lärmiljö. En tidsbegränsad anställning anges till 7 december 2026–31 december 2027.",
+   "krav": "Gymnasieexamen med minst 2 250 poäng. Gedigen erfarenhet av arbete med elever med intellektuell funktionsnedsättning (IF) och neuropsykiatriska funktionsnedsättningar (NPF), samt kunskap om TAKK och AKK. God svenska i tal och skrift. Kunskaper om diabetes, epilepsi och hjälpmedel meriterande.",
+   "sista_dag": "2026-11-27",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31728253",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "31725510",
+   "rubrik": "Barnskötare till Östra förskoleområdet",
+   "arbetsgivare": "Sandvikens kommun",
+   "ort": "Sandviken",
+   "kategori": "Övrigt",
+   "beskrivning": "Två tidsbegränsade tjänster som barnskötare under våren 2027 (11 januari–30 juni), en på Jernvallens förskola och en på Årsunda förskola. Heltid i arbetslaget med planerad och spontan undervisning, från planering till utvärdering. Fria pedagogiska måltider, arbetskläder för utomhusbruk och egen arbetsdator.",
+   "krav": "Barnskötarutbildning med fullständiga gymnasiebetyg eller annan utbildning/erfarenhet som arbetsgivaren bedömer likvärdig. Goda kunskaper i svenska i tal och skrift. Utdrag ur belastningsregistret krävs. Erfarenhet av mindre barngrupper och tydliggörande pedagogik meriterande.",
+   "sista_dag": "2026-11-27",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31725510",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "31725329",
+   "rubrik": "Lokalvårdare",
+   "arbetsgivare": "J Tillanen Städservice AB",
+   "ort": "Sandviken",
+   "kategori": "Övrigt",
+   "beskrivning": "Tillsvidare på heltid hos JT Städservice i Sandviken (företags-, fastighets-, flytt- och hemstädning, ca 30 medarbetare). All typ av lokalvård hos kunder, både självständigt och i team. Arbetstiderna varierar från tidiga mornar till sena kvällar. Start omgående, lön enligt kollektivavtal.",
+   "krav": "Minst 1–2 års erfarenhet av städarbete och kan börja omgående. Noggrann, ansvarsfull och pålitlig. Flytande svenska i tal och skrift. B-körkort (körning med arbetsfordon ingår).",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31725329",
+   "first_seen": "2026-11-13"
+  },
+  {
+   "id": "31724875",
+   "rubrik": "Massör för timanställning",
+   "arbetsgivare": "Gamla Gefle SPA AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Timanställning vid behov som massör på Spa Gamla Gefle i centrala Gävle. Klassisk massage och friskvårdsbehandlingar, främst eftermiddagar på vardagar, både inplanerade pass och extra vid behov. Omfattningen varierar med bokningsläget. Tillträde enligt överenskommelse.",
+   "krav": "Utbildad massör med tidigare erfarenhet av massagebehandlingar, främst klassisk massage och friskvårdsbehandlingar. Trygg i yrkesrollen, serviceinriktad och flexibel.",
+   "sista_dag": "2026-12-04",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31724875",
+   "first_seen": "2026-11-13"
+  },
   {
    "id": "31722413",
    "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
@@ -746,18 +806,6 @@
    "first_seen": "2026-11-02"
   },
   {
-   "id": "31670405",
-   "rubrik": "Brevbärare/paketbud – Gävle",
-   "arbetsgivare": "CityMail Sweden AB",
-   "ort": "Gävle",
-   "kategori": "Transport",
-   "beskrivning": "Heltid på ett helt nytt CityMail-kontor i Gävle. Sortera post och paket och dela ut med elcykel, Paxster eller bil, helgfria vardagar. Fysiskt och aktivt jobb utomhus.",
-   "krav": "Minst 18 år och grundläggande svenska. B-körkort och tidigare erfarenhet är meriterande men inget krav.",
-   "sista_dag": "2026-11-12",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31670405",
-   "first_seen": "2026-11-02"
-  },
-  {
    "id": "31670306",
    "rubrik": "Renhållningsarbetare chaufför",
    "arbetsgivare": "Gästrike återvinnare",
@@ -1091,18 +1139,6 @@
    "krav": "Kvalifikationer Vi söker dig som har erfarenhet inom service eller montagearbete med inriktning ventilation, meriterande är om du innehar OVK-behörighet eller erfarenhet inom styr- och reglerteknik. F…",
    "sista_dag": "2026-11-29",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31596940",
-   "first_seen": "2026-10-14"
-  },
-  {
-   "id": "31592246",
-   "rubrik": "Extrajobb / deltid – kvällar & helger På Mobiloperatör!",
-   "arbetsgivare": "Tele7 AB",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Alla våra kontorsteam är fulla - nu öppnar vi fler kvälls- och helgplatser i Team 7 Perfekt extrajobb för dig som studerar - arbeta hemifrån kvällar och helger Välkommen till operatören med cashback. Hos Samtele får kunderna pengar tillbaka. Med Samtele Cashback sänker de sin…",
-   "krav": "Se annons",
-   "sista_dag": "2026-11-12",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31592246",
    "first_seen": "2026-10-14"
   },
   {
