@@ -1,6 +1,126 @@
 {
- "senast_uppdaterad": "2026-11-18",
+ "senast_uppdaterad": "2026-11-19",
  "jobb": [
+  {
+   "id": "31753870",
+   "rubrik": "Extrajobb – inventera i välkänd butik i Gävle",
+   "arbetsgivare": "Jobandtalent Sweden AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Job&Talent söker medarbetare till ett inventeringsuppdrag hos en välkänd varuhuskedja i Gävle. Uppdraget är ett engångstillfälle den 15 januari, klockan 07:00–16:00. Du ingår i ett team som räknar, kontrollerar och registrerar butikens artiklar. Du måste ha fyllt 18 år.",
+   "krav": "Strukturerad, noggrann och van att arbeta metodiskt. Kan samarbeta i grupp och arbeta självständigt, har god koncentrationsförmåga och trivs med rörligt arbete i bra tempo. Bekväm med teknisk utrustning. Kan kommunicera på svenska, eftersom introduktionen sker på svenska.",
+   "sista_dag": "2027-05-18",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31753870",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31753832",
+   "rubrik": "CNC-operatör till stor industrikund i Sandviken | Heltid",
+   "arbetsgivare": "Manpower Aktiebolag",
+   "ort": "Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Manpower söker CNC-operatörer till uppdrag hos en stor industrikund i Sandviken. Visstid i minst 6 månader med möjlighet till förlängning, heltid, och skiftarbete kan förekomma. Du kör och övervakar CNC-styrda maskiner, gör mätningar och kvalitetskontroller och följer instruktioner och ritningar. Start enligt överenskommelse. Bakgrundskontroll i brotts- och belastningsregistret ingår i rekryteringen.",
+   "krav": "Utbildning inom CNC eller motsvarande arbetslivserfarenhet. Flytande svenska i tal och skrift. Ansvarstagande, kvalitetsmedveten och noggrann, med tekniskt intresse. Truckkort och traverskort meriterande.",
+   "sista_dag": "2026-12-04",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31753832",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31752751",
+   "rubrik": "Logistics Technician",
+   "arbetsgivare": "Microsoft Sweden 1172 AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Microsoft söker en Data Center Inventory & Asset Technician till sitt datacenter i Gävle, tillsvidare på heltid och på plats. Du sköter inventering och tillgångshantering: in- och utleveranser, cykelinventeringar och revisioner, reklamations- och returflöden, dokumentation och säker destruktion av datamedia. Egen transport rekommenderas eftersom kollektivtrafiken till platsen är begränsad. Bakgrundskontroll enligt Microsofts krav.",
+   "krav": "Gymnasieexamen eller motsvarande, samt erfarenhet av lager, logistik, inventering, butik, IT-miljö eller liknande – eller motsvarande praktisk erfarenhet. Giltigt körkort och möjlighet att resa mellan anläggningar. Erfarenhet av truck, pallyft eller liknande meriterande.",
+   "sista_dag": "2026-12-03",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31752751",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31752450",
+   "rubrik": "Allakando läxhjälp Sandviken, privatlärare, Generellt studiestöd",
+   "arbetsgivare": "Allakando AB",
+   "ort": "Sandviken",
+   "kategori": "Övrigt",
+   "beskrivning": "Allakando söker studiecoacher för läxhjälp i Sandviken, ett flexibelt extrajobb som går att kombinera med studier eller fritid. Du undervisar i dina ämnen hemma hos eleven, på en central plats eller online, i lektioner på 90–120 minuter en eller två gånger i veckan. Inga förkunskaper krävs; Allakando utbildar dig. Ansökan sker på allakando.se och tar några minuter.",
+   "krav": "Går till exempel på gymnasiet eller universitet. Goda ämneskunskaper, positiv och engagerande, och kan extrajobba minst 4 timmar i veckan. Kommunicerar effektivt på svenska i tal och skrift.",
+   "sista_dag": "2026-12-03",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31752450",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31751728",
+   "rubrik": "Massör/Massageterapeut sökes för lediga uppdrag",
+   "arbetsgivare": "KM Friskvård & Utbildning AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "KM Friskvård & Utbildning söker en professionell massageterapeut för lediga företagsuppdrag i Gävle. Du kan vara anställd eller ha eget företag. Ansökningar behandlas löpande. Skicka en kort presentation till malin@knutpunktens.se.",
+   "krav": "Certifierad massör eller massageterapeut. Anställd eller eget företag.",
+   "sista_dag": "2026-12-19",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31751728",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31751313",
+   "rubrik": "Butikskonsulent i Gävle!",
+   "arbetsgivare": "Dryckeskonsult Sverige AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Dryckeskonsult söker en butikskonsulent i Gävle med omnejd. Du gör vanligt butiksarbete i dagligvaruhandeln med fokus på varuplock och dryckesplock, och kan även få inventering, varudemonstration eller lösviktsplock. Du besöker oftast flera butiker per dag. Timanställning på cirka 15–20 timmar i veckan, dagtid vardagar, start enligt överenskommelse. Kollektivavtal med Handels.",
+   "krav": "Butikserfarenhet, B-körkort och tillgång till egen bil är skallkrav. Självständig, social och framåt.",
+   "sista_dag": "2026-12-19",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31751313",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31751028",
+   "rubrik": "Projektmedarbetare till Sustaid Mellansverige hos Coompanion Gävleborg",
+   "arbetsgivare": "Coompanion Kooperativ Utveckling Gävleborg ek. för.",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Coompanion Gävleborg söker en projektmedarbetare till Sustaid Mellansverige, ett tidsbegränsat deltidsuppdrag på 12 månader upp till två år. Du ingår i projektteamet i Gävle och arbetar nära kollegorna i Värmland. Du planerar och leder dialogmöten med föreningar, företag, kommuner och akademi i länet, bygger kontakter, följer utvalda aktörer med workshops och studiebesök, dokumenterar resultat och bidrar till rapportering. Resor i länet och ibland till Värmland ingår. Ansökan via mejl till gavleborg@coompanion.se.",
+   "krav": "Erfarenhet av krisberedskap, totalförsvar, klimatanpassning eller innovations- och företagsfrämjande. Kunskap om civilsamhället, kooperativa eller sociala företag i Gävleborg och ett eget nätverk i länet. Erfarenhet av att driva eller arbeta i projekt, gärna med offentlig finansiering, och vana att samordna möten eller workshops. Körkort och god förmåga att uttrycka dig på svenska i tal och skrift. Engelska meriterande.",
+   "sista_dag": "2026-12-19",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31751028",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31749531",
+   "rubrik": "PINCHOS I GÄVLE SÖKER KOCK",
+   "arbetsgivare": "MKE My Kitchen Equipment AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Pinchos i Gävle söker en kock till köket. Tillsvidare på deltid. Du arbetar tillsammans med övriga medarbetare i köket. Ansökan via mejl till hasanbozlaks@gmail.com.",
+   "krav": "Tidigare erfarenhet som kock är meriterande.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31749531",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31749472",
+   "rubrik": "PINCHOS I GÄVLE SÖKER BARTENDER",
+   "arbetsgivare": "MKE My Kitchen Equipment AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Pinchos i Gävle söker en bartender. Tillsvidare på deltid. Du arbetar i bar och med service tillsammans med övriga medarbetare. Ansökan via mejl till hasanbozlaks@gmail.com.",
+   "krav": "Tidigare erfarenhet av arbete som bartender och med service.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31749472",
+   "first_seen": "2026-11-19"
+  },
+  {
+   "id": "31749418",
+   "rubrik": "Kundansvarig Säljare",
+   "arbetsgivare": "Konsultia AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Konsultia, som arbetar med bemanning och rekrytering inom industri, teknik och logistik, söker en kundansvarig säljare för att bygga upp verksamheten i Gävleområdet och norra Uppland. Heltid, tillsvidare med sex månaders provanställning. Du söker upp nya kunder, driver försäljningen från första kontakt till avtal och samarbetar med konsultchefer och rekryterare. Intervjuer sker löpande.",
+   "krav": "Erfarenhet från bemanningsbranschen och arbete med försäljning, affärsutveckling eller kundrelationer. Affärsdriven, initiativrik och bra på att skapa kontakter. B-körkort är ett krav.",
+   "sista_dag": "2026-12-20",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31749418",
+   "first_seen": "2026-11-19"
+  },
   {
    "id": "31748856",
    "rubrik": "Kundutredare",
@@ -323,18 +443,6 @@
    "krav": "Fullständig gymnasieutbildning eller annan utbildning i kombination med relevant erfarenhet. Arbetslivserfarenhet (säsong, timanställning eller eget företagande räknas; praktik och volontärarbete räknas inte). God svenska i tal och skrift, god datorvana och B-körkort. Erfarenhet från kriminalvård, säkerhetsarbete, social omsorg, psykiatri eller vård- och omsorg meriterande.",
    "sista_dag": "2026-12-07",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31732381",
-   "first_seen": "2026-11-16"
-  },
-  {
-   "id": "31732170",
-   "rubrik": "Less på hamsterhjulet? Sök till säljare!(Heltid/deltid) 27450:-+ provision!",
-   "arbetsgivare": "AquaClean Tech Sverige AB",
-   "ort": "Sandviken",
-   "kategori": "Övrigt",
-   "beskrivning": "Tillsvidare, heltid eller deltid som utesäljare hos AquaClean Tech i Sandviken. Du utgår från hemmet och gör förbokade hembesök där du demonstrerar och säljer produkten Roboclean. Grundlön 27 450 kr vid heltid (45 demonstrationer per kalendermånad) plus provision. Internutbildning ingår, ingen tidigare säljerfarenhet krävs.",
-   "krav": "B-körkort och tillgång till bil i arbetet. Flytande svenska i tal och skrift.",
-   "sista_dag": "2026-11-18",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31732170",
    "first_seen": "2026-11-16"
   },
   {
@@ -1022,18 +1130,6 @@
    "first_seen": "2026-11-05"
   },
   {
-   "id": "31687750",
-   "rubrik": "Kundinformatör till X-trafik",
-   "arbetsgivare": "REGION GÄVLEBORG",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Tillsvidare på 75 %, tillträde 18 januari 2027, på X-trafiks kundcenter i Gävle. Vägleder resenärer över disk om resor, biljetter och digitala kanaler, hanterar synpunkter, reklamationer, administration och hittegods. Provanställning tillämpas.",
-   "krav": "Slutförd gymnasieutbildning, erfarenhet av kvalificerad kundservice i direkt kundkontakt, god datorvana, god svenska och engelska i tal och skrift. Flera språk meriterande.",
-   "sista_dag": "2026-11-18",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31687750",
-   "first_seen": "2026-11-05"
-  },
-  {
    "id": "31687579",
    "rubrik": "Restaurangmedarbetare",
    "arbetsgivare": "Kungsbergets Fritidsanläggningar Aktiebolag",
@@ -1212,18 +1308,6 @@
    "sista_dag": "2026-11-27",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31656715",
    "first_seen": "2026-10-28"
-  },
-  {
-   "id": "31650298",
-   "rubrik": "Mek-tekniker till Alleima",
-   "arbetsgivare": "Alleima AB",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Heltid, tillsvidare, dagtid (skift kan förekomma). Förebyggande och avhjälpande underhåll av produktionsutrustning på Alleimas enhet Nuclear (sömlösa rostfria rör), planering och riskbedömning av arbeten samt förbättringsarbete och dokumentation i underhållssystem.",
-   "krav": "Gymnasieutbildning inom underhåll/verkstadsteknik eller liknande och några års relevant erfarenhet, gärna från tung industri, samt god PC-vana. Meriterande: truck- och traverskort och Heta arbeten.",
-   "sista_dag": "2026-11-18",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31650298",
-   "first_seen": "2026-10-27"
   },
   {
    "id": "31644342",
