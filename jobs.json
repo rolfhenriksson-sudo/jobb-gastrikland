@@ -1,6 +1,162 @@
 {
- "senast_uppdaterad": "2026-11-20",
+ "senast_uppdaterad": "2026-11-23",
  "jobb": [
+  {
+   "id": "31767638",
+   "rubrik": "OP Assistans söker personliga assistenter i Valbo",
+   "arbetsgivare": "Ockelbos Personligaste Assistans AB",
+   "ort": "Valbo",
+   "kategori": "Övrigt",
+   "beskrivning": "OP Assistans söker personliga assistenter till kunder i Valbo. Arbetet kan omfatta vardagliga rutiner, personlig omvårdnad, aktiviteter och socialt stöd. Alla börjar som timvikarier, med möjlighet till fast schemarad på deltid. Arbetstiderna varierar och kan innefatta dag, kväll, natt samt helger.",
+   "krav": "Lyhörd, ansvarsfull och flexibel, med god förmåga att kommunicera på svenska. Minst 18 år. Erfarenhet av vård, omsorg eller personlig assistans meriterande men inget krav.",
+   "sista_dag": "2027-05-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31767638",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31766939",
+   "rubrik": "Erfaren ekonomiassistent med ansvar för leverantörsreskontra",
+   "arbetsgivare": "Barona Professionals AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Barona söker en erfaren ekonomiassistent för ett konsultuppdrag på heltid i cirka sex månader hos en kund i Gävle, 100 procent på plats. Du har huvudansvar för leverantörsreskontran och stöttar i löpande redovisning och bokslut, med start omgående eller enligt överenskommelse. Samma typ av uppdrag utannonseras även av andra bemanningsföretag.",
+   "krav": "Minst 3–5 års erfarenhet av leverantörsreskontra, erfarenhet av löpande redovisning, elektronisk fakturahantering och affärssystem. Förmåga att arbeta självständigt från start.",
+   "sista_dag": "2026-12-24",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31766939",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31766191",
+   "rubrik": "Administratör inom äldreomsorgen",
+   "arbetsgivare": "Hofors kommun",
+   "ort": "Hofors",
+   "kategori": "Övrigt",
+   "beskrivning": "Hofors kommun söker en administratör till hemtjänsten, tillsvidare på heltid med tillträde snarast efter överenskommelse. Du ansvarar för rekrytering och bemanning, arbetar i system som Personec, Time Care Pool, Multi Access, Treserva och Unit4, och har kontakt med personal, brukare och anhöriga. I arbetet ingår även programmering och installation av trygghetslarm, beställning av förbrukningsmaterial och attestering av fakturor.",
+   "krav": "PA-utbildning eller annan motsvarande eftergymnasial utbildning, alternativt motsvarande kunskapsnivå genom arbetslivserfarenhet. Flytande svenska, god datavana och B-körkort. Erfarenhet av Multi Access, Personec, Time Care Pool och Treserva meriterande.",
+   "sista_dag": "2026-12-07",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31766191",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31765710",
+   "rubrik": "Instabee Gävle söker Budbilschaufförer och Terminalarbetare (deltid)",
+   "arbetsgivare": "Flexio Work AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Flexio Work söker budbilschaufförer och terminalarbetare på deltid till Instabees terminal i Gävle. Arbetet omfattar sortering, scanning, plockning och budbilskörning, cirka 2–3 dagar per vecka måndag–fredag, med flexibla tider mellan 15:30 och 22:30. Helgarbete förekommer. Tjänsten är en visstidsanställning vid behov och passar dig som studerar eller har annat jobb på minst 50 procent. I arbetet ingår även hantering av lådor med alkohol. Bakgrundskontroll genomförs.",
+   "krav": "Minst 18 år, B-körkort (manuell), god fysik och goda kunskaper i svenska eller engelska. Studerande eller annan sysselsättning på minst 50 procent. Inget i brottsregistret. Truckkort och liknande erfarenhet meriterande.",
+   "sista_dag": "2026-12-23",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31765710",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31765516",
+   "rubrik": "Personlig assistent sökes till man i Gävle",
+   "arbetsgivare": "Access Assistans i Sverige AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Access Assistans söker en personlig assistent till en man i Gävle med intresse för musik, dataspel, sport och film. Du hjälper till med hushållssysslor, av- och påklädning och aktiviteter, och är ett socialt stöd i vardagen. Tjänsten är ett vikariat till att börja med, med möjlighet till fast tjänst.",
+   "krav": "Glad, trevlig och ansvarstagande, med förståelse för rollen som personlig assistent. Intresse för musik, dataspel, sport eller film meriterande.",
+   "sista_dag": "2026-12-13",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31765516",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31764445",
+   "rubrik": "Senior Tekniker till Securitas Direct Sverige – Gävle med omnejd",
+   "arbetsgivare": "Verisure Sverige AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Securitas Direct (Verisure) söker en senior tekniker till Gävle med omnejd, tillsvidare på heltid. Du installerar, driftsätter och felsöker mer avancerade säkerhetssystem hos företagskunder, bland annat inbrottslarm, kamerasystem, passersystem och brandlarm, och stöttar kollegor vid komplexa uppdrag.",
+   "krav": "B-körkort, el-utbildning på gymnasienivå eller motsvarande, flera års erfarenhet av installation eller service inom passersystem, inbrottslarm och CCTV, goda kunskaper i svenska samt utdrag ur belastningsregistret utan anmärkningar. Erfarenhet av Galaxy, Axema eller RCO meriterande.",
+   "sista_dag": "2026-12-23",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31764445",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31764431",
+   "rubrik": "Säljare till Forsbacka",
+   "arbetsgivare": "Verisure Sverige AB",
+   "ort": "Forsbacka",
+   "kategori": "Övrigt",
+   "beskrivning": "Verisure söker en säkerhetssäljare till Forsbacka, tillsvidare på heltid. Du arbetar med uppsökande försäljning av säkerhetslösningar till privatpersoner, från första kontakt till avslut. Arbetstid vardagar 12:00–20:30 (fredagar 10:00–19:00). Tjänstebil ingår, garantilön plus provision, mållön 32 000–40 000 kr i månaden.",
+   "krav": "B-körkort, flytande svenska i tal och skrift, kan arbeta angivna tider och är fri från anmärkningar i belastningsregistret. Säljerfarenhet meriterande men inget krav.",
+   "sista_dag": "2027-01-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31764431",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31764250",
+   "rubrik": "Jobba på lager i Gävle",
+   "arbetsgivare": "Astani Wear AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "Agil Rekrytering söker lagerpersonal för extrajobb och behovsanställning hos en kund i Gävle, med start omgående eller enligt överenskommelse. Arbetet består av plock och pack, hantering av inkommande leveranser och att hålla ordning i lagret, i ett fysiskt arbete med högt tempo.",
+   "krav": "Noggrann och strukturerad, trivs med fysiskt arbete i högt tempo. Talar svenska eller engelska. Erfarenhet av lagerarbete meriterande.",
+   "sista_dag": "2026-12-22",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31764250",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31763888",
+   "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
+   "arbetsgivare": "Manpower Aktiebolag",
+   "ort": "Gävle/Sandviken",
+   "kategori": "Industri",
+   "beskrivning": "Manpower söker industriarbetare för konsultuppdrag hos kunder inom tillverkande industri i Gävle och Sandviken, heltid med möjlighet till olika skiftformer. Arbetsuppgifterna varierar efter uppdrag och kan omfatta produktion, maskinövervakning, CNC-arbete samt truckkörning och materialhantering. Start enligt överenskommelse. Bakgrundskontroll genomförs.",
+   "krav": "Flytande svenska i tal och skrift. B-körkort och tillgång till bil ses gärna. Meriterande: erfarenhet från industri eller produktion, produktionsteknisk utbildning, CNC, automation, svets, truckkort eller traverskort.",
+   "sista_dag": "2026-12-06",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31763888",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31763159",
+   "rubrik": "Spotter-säkerhetsobservatör till datacenterprojekt",
+   "arbetsgivare": "Scr Consulting AB",
+   "ort": "Valbo",
+   "kategori": "Övrigt",
+   "beskrivning": "Scr Consulting söker flera spotters till ett datacenterprojekt i Stackbo/Valbo. Du observerar pågående arbeten, identifierar och rapporterar risker och avvikelser och kommunicerar med arbetslag och entreprenörer. Tidsbegränsad anställning knuten till projektet, heltid, med tillträde 1 december. Arbetet är huvudsakligen dagtid, men kvälls- och helgarbete är vanligt. Bakgrundskontroll genomförs.",
+   "krav": "Tydlig engelska i tal och skrift, giltigt körkort och tillgång till bil. Kan följa säkerhetsrutiner, är uppmärksam och klarar att stå och gå under längre perioder. Svenska och gymnasieutbildning meriterande.",
+   "sista_dag": "2026-11-30",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31763159",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31762727",
+   "rubrik": "Delivery Driver Gävle",
+   "arbetsgivare": "Mec Transport AB",
+   "ort": "Valbo",
+   "kategori": "Transport",
+   "beskrivning": "Mec Transport i Valbo söker budbilschaufförer för paketleveranser åt bland annat Instabox, Budbee och Airmee. Körschemat är cirka 15:30–23:00, minst fem dagar i veckan varav en helgdag. Behovsanställning.",
+   "krav": "Giltigt svenskt B-körkort för manuell växellåda, flytande engelska (svenska meriterande) och minst ett års dokumenterad erfarenhet av körning och utkörning. Ansvarstagande, punktlig och serviceinriktad.",
+   "sista_dag": "2026-12-21",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31762727",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31761084",
+   "rubrik": "Ekonomiassistent med fokus på leverantörsreskontra till uppdrag i Gävle",
+   "arbetsgivare": "Poolia AB",
+   "ort": "Gävle",
+   "kategori": "Övrigt",
+   "beskrivning": "Poolia söker en erfaren ekonomiassistent för ett konsultuppdrag på heltid i cirka sex månader hos en kund i Gävle, arbete helt på plats. Du har huvudansvar för leverantörsreskontran och stöttar i löpande redovisning och bokslut. Start omgående eller enligt överenskommelse. Samma typ av uppdrag utannonseras även av andra bemanningsföretag.",
+   "krav": "Minst 3–5 års erfarenhet av leverantörsreskontra, erfarenhet av löpande redovisning och god förståelse för sambandet med redovisningen. God systemvana och förmåga att arbeta självständigt med begränsad introduktion.",
+   "sista_dag": "2027-05-19",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31761084",
+   "first_seen": "2026-11-23"
+  },
+  {
+   "id": "31080197",
+   "rubrik": "Hamn och Stuveriarbetare",
+   "arbetsgivare": "YILPORT Gävle AB",
+   "ort": "Gävle",
+   "kategori": "Lager/logistik",
+   "beskrivning": "YILPORT Gävle söker behovsanställda hamnarbetare till terminal- och fartygsverksamheten vid Fredriksskans. Arbetet omfattar lastning och lossning av containrar och gods, arbete vid fartygsoperationer samt enklare underhåll i terminalområdet. Ordinarie arbetstid är vardagar 07:00–16:00, men andra tider och övertid kan förekomma. Arbetet är fysiskt krävande. Vid framtida tillsvidareanställningar prioriteras lämpliga behovsanställda. Tjänsten är placerad inom ett skyddsobjekt och bakgrundskontroll genomförs. Ansökan med CV och personligt brev till nordic.hr@yilport.com, referens BLIXT2026.",
+   "krav": "Goda kunskaper i svenska i tal och skrift, god fysisk förmåga, B-körkort samt hög tillgänglighet även med kort varsel. Meriterande: maskinkompetens, erfarenhet från hamn, terminal, industri eller logistik, samt truckkort eller andra behörigheter.",
+   "sista_dag": "2026-12-20",
+   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31080197",
+   "first_seen": "2026-11-23"
+  },
   {
    "id": "31760856",
    "rubrik": "Ekonomiassistent till Gavlegårdarna - konsultuppdrag",
@@ -734,18 +890,6 @@
    "first_seen": "2026-11-13"
   },
   {
-   "id": "31722413",
-   "rubrik": "Industriarbetare till kund i Gävle/Sandviken",
-   "arbetsgivare": "Manpower Aktiebolag",
-   "ort": "Gävle/Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Via Manpower till uppdrag hos kunder inom tillverkande industri i Sandviken och Gävle. Produktion, maskinövervakning, CNC-arbete, truckkörning och materialhantering beroende på uppdrag. Konsultuppdrag, start enligt överenskommelse. Olika skiftformer kan förekomma (dag, 2-, 3-, 4- eller 5-skift). Bakgrundskontroll ingår.",
-   "krav": "Flytande svenska i tal och skrift. B-körkort och tillgång till bil. Erfarenhet från industri, CNC, svets, samt truck- och traverskort meriterande.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31722413",
-   "first_seen": "2026-11-12"
-  },
-  {
    "id": "31721946",
    "rubrik": "Instabee Gävle söker Budbilschaufförer och Terminalarbetare (deltid)",
    "arbetsgivare": "Flexio Work AB",
@@ -827,18 +971,6 @@
    "krav": "Utbildningsbevis som särskild ställningsbyggare och vana av ställningsbygge. Körkort, god fysik och glatt humör.",
    "sista_dag": "2026-12-23",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31719551",
-   "first_seen": "2026-11-12"
-  },
-  {
-   "id": "31718372",
-   "rubrik": "Kundtjänstmedarbetare",
-   "arbetsgivare": "Randstad AB",
-   "ort": "Sandviken",
-   "kategori": "Övrigt",
-   "beskrivning": "Via Randstad till kund i Sandviken. Heltid i tre månader med möjlighet till förlängning, start omgående. Hantera ärenden via telefon, mejl, chatt och reception samt löpande administration, order- och fakturahantering.",
-   "krav": "Tidigare erfarenhet av kundservice, reception eller administration. Tillgänglig för start omgående (ingen uppsägningstid). God datorvana samt mycket god svenska och engelska i tal och skrift.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31718372",
    "first_seen": "2026-11-12"
   },
   {
@@ -974,18 +1106,6 @@
    "first_seen": "2026-11-11"
   },
   {
-   "id": "31713013",
-   "rubrik": "Städpersonal till hotell",
-   "arbetsgivare": "Hotel City Gävle AB",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Extrapersonal till städavdelningen på Best Western Hotel City Gävle (135 rum, cityläge). Främst rumsstädning samt städning av allmänna ytor. Behovsanställning; arbete dagtid och helger eftersom hotellet är öppet året runt.",
-   "krav": "Noggrann och van att arbeta med kvalitet. Flexibel med arbetsuppgifter och arbetstider. Engelska krävs; svenska meriterande.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31713013",
-   "first_seen": "2026-11-11"
-  },
-  {
    "id": "31712907",
    "rubrik": "Butikssäljare | Gävle City",
    "arbetsgivare": "Kjell & Co Elektronik AB",
@@ -1020,18 +1140,6 @@
    "sista_dag": "2027-05-09",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31708063",
    "first_seen": "2026-11-10"
-  },
-  {
-   "id": "31706297",
-   "rubrik": "CNC-operatörer till välkänd industrikund i Sandviken",
-   "arbetsgivare": "Clockwork Bemanning & Rekrytering AB",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Via Clockwork till industrikund i Sandviken. Köra och övervaka CNC-maskiner, göra ställ och justeringar samt enklare programmering. Skiftgång kan förekomma; truck och travers kan ingå.",
-   "krav": "Utbildad CNC-operatör eller likvärdig erfarenhet. Kunskap i ritningsläsning och mätteknik; programmeringsvana meriterande. Truck- och traverskort meriterande. Flexibilitet för skiftgång.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31706297",
-   "first_seen": "2026-11-09"
   },
   {
    "id": "31704720",
@@ -1166,18 +1274,6 @@
    "first_seen": "2026-11-09"
   },
   {
-   "id": "31698043",
-   "rubrik": "Butikssäljare (extra) till New Yorker i Gävle",
-   "arbetsgivare": "NEW YORKER Sverige Kommanditbolag",
-   "ort": "Gävle",
-   "kategori": "Övrigt",
-   "beskrivning": "Extrajobb som butikssäljare i NEW YORKER-butiken i Gävle. Behovsanställning med arbete dagar, kvällar och helger vid behov. Ansökan endast via företagets webbplats.",
-   "krav": "Helst över 18 år. Gymnasieutbildning gärna inom handel, erfarenhet från serviceyrke, säljtalang och intresse för mode.",
-   "sista_dag": "2026-11-20",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31698043",
-   "first_seen": "2026-11-09"
-  },
-  {
    "id": "31697768",
    "rubrik": "Härlig 18-åring i Gävle söker trygg och engagerad personlig assistent!",
    "arbetsgivare": "KOMPIS Assistans, ekonomisk förening",
@@ -1235,18 +1331,6 @@
    "krav": "Erfarenhet som kock krävs. Erfarenhet av fisk och skaldjur samt goda kunskaper i hygien och råvaruhantering meriterande. Noggrann, stresstålig och serviceinriktad.",
    "sista_dag": "2026-12-13",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31695223",
-   "first_seen": "2026-11-09"
-  },
-  {
-   "id": "31694511",
-   "rubrik": "Ledningsnätstekniker",
-   "arbetsgivare": "Gästrike Vatten AB",
-   "ort": "Hofors",
-   "kategori": "Fastighet/vaktmästare",
-   "beskrivning": "Underhåll, förbättringar och akuta åtgärder på ledningsnätet för vatten, avlopp och dagvatten. Felsökning, reparationer, kundärenden och samordning med entreprenörer; viss dokumentation av drift- och kartdata. Beredskap kan ingå. Tillsvidare, tillträde omgående.",
-   "krav": "Eftergymnasial utbildning inom VA (till exempel rörnätsteknik) eller motsvarande erfarenhet, gärna från anläggning eller underhåll i processindustri. Manuellt B-körkort krävs. Vana av kundkontakt; ordersystem eller Office meriterande.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31694511",
    "first_seen": "2026-11-09"
   },
   {
@@ -1418,30 +1502,6 @@
    "first_seen": "2026-11-02"
   },
   {
-   "id": "31670306",
-   "rubrik": "Renhållningsarbetare chaufför",
-   "arbetsgivare": "Gästrike återvinnare",
-   "ort": "Gävle",
-   "kategori": "Transport",
-   "beskrivning": "Fem tillsvidaretjänster med insamling och transport av hushålls- och verksamhetsavfall, körning av alla fordonstyper och skötsel av fordon. Lön 38 000–39 710 kr. Urval sker löpande.",
-   "krav": "CE-körkort, YKB, ADR, truck- och krankort samt fem års dokumenterad erfarenhet inom renhållning, transport eller entreprenad.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31670306",
-   "first_seen": "2026-11-02"
-  },
-  {
-   "id": "31669078",
-   "rubrik": "Delivery Driver Gävle (paketbud)",
-   "arbetsgivare": "Mec Transport AB",
-   "ort": "Gävle (Valbo)",
-   "kategori": "Transport",
-   "beskrivning": "Behovsanställning som paketbud åt Instabox, Budbee och Airmee. Kvällsarbete ca 15.30–23.00, minst fem dagar i veckan varav en helgdag.",
-   "krav": "B-körkort (manuell), god engelska och minst ett års erfarenhet av budkörning.",
-   "sista_dag": "2026-11-20",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31669078",
-   "first_seen": "2026-11-02"
-  },
-  {
    "id": "31665106",
    "rubrik": "Skadedjurstekniker till Rentokil Gävle",
    "arbetsgivare": "Rentokil Sverige AB",
@@ -1466,18 +1526,6 @@
    "first_seen": "2026-10-30"
   },
   {
-   "id": "31664109",
-   "rubrik": "CNC-operatör/CNC-svarvare till Ovako i Hofors",
-   "arbetsgivare": "Ovako AB",
-   "ort": "Hofors",
-   "kategori": "Industri",
-   "beskrivning": "Ovako har startat en ny verksamhet för svarvning av ringar i Hofors och söker en CNC-svarvare som tar ansvar för hela bearbetningen, från planering och programmering till uppspänning, bearbetning och kvalitetskontroll.",
-   "krav": "Flerårig erfarenhet av CNC-svarvning och egen programmering, ritningsläsning och mätteknik, verkstadsutbildning eller motsvarande erfarenhet, god svenska, datorvana och B-körkort.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31664109",
-   "first_seen": "2026-10-30"
-  },
-  {
    "id": "31656715",
    "rubrik": "Servicetekniker / Innesäljare till vårt projekt i Gävle",
    "arbetsgivare": "Cramo AB",
@@ -1488,54 +1536,6 @@
    "sista_dag": "2026-11-27",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31656715",
    "first_seen": "2026-10-28"
-  },
-  {
-   "id": "31644342",
-   "rubrik": "Verkstadsmedarbetare till Ramirent i Gävle",
-   "arbetsgivare": "Ramirent (via StudentConsulting)",
-   "ort": "Gävle",
-   "kategori": "Industri",
-   "beskrivning": "Heltid, tillsvidare efter 6 mån provanställning, start omgående, vardagar 07–16. Mottagning, funktionskontroll, felsökning, service och reparation av hyrmaskiner och verktyg, tvätt av maskiner och kundkontakt på kundcentret i Gävle och ute hos kund.",
-   "krav": "Tekniskt intresse, B-körkort och grundläggande IT-kunskaper. Meriterande: truckkort, erfarenhet av maskiner eller byggbranschen, BE-körkort.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31644342",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "31639792",
-   "rubrik": "Lastmaskinist – Sälgsjön",
-   "arbetsgivare": "Heidelberg Materials Ballast Sverige AB",
-   "ort": "Gävle (Sälgsjön)",
-   "kategori": "Industri",
-   "beskrivning": "Heltid, vanlig anställning vid grus- och bergtäkten i Sälgsjön. Lastning av kundfordon, upplagshantering, drift av mobil och fast processanläggning samt reparations- och underhållsarbete.",
-   "krav": "Yrkesbevis och erfarenhet av lastmaskin. Meriterande: erfarenhet av berg-, sand- och jordprodukter samt utlastning med våg.",
-   "sista_dag": "2026-11-21",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31639792",
-   "first_seen": "2026-10-26"
-  },
-  {
-   "id": "31635888",
-   "rubrik": "Lagerpersonal i Gävle sökes",
-   "arbetsgivare": "Astani Wear AB (via Agil Rekrytering)",
-   "ort": "Gävle",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Extrajobb/behovsanställning på lager hos kund i Gävle, start omgående. Plock och pack, hantering av inkommande leveranser och ordning i lagret.",
-   "krav": "Noggrann och strukturerad, trivs med fysiskt arbete i högt tempo, talar svenska eller engelska. Urval sker löpande.",
-   "sista_dag": "2026-11-22",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31635888",
-   "first_seen": "2026-10-23"
-  },
-  {
-   "id": "31632006",
-   "rubrik": "Lagermedarbetare med fokus på IT-packning i Hofors",
-   "arbetsgivare": "Simplex Bemanning AB",
-   "ort": "Hofors",
-   "kategori": "Lager/logistik",
-   "beskrivning": "Heltid, tillsvidare via bemanningsföretag, start omgående. Paketera IT-artiklar, kvalitetskontroll, märkning av försändelser och registrering med handscanner i ett modernt lager. Lön 185 kr/timme.",
-   "krav": "Noggrann, följer instruktioner, trivs med fysiskt arbete, svenska eller engelska. Meriterande: erfarenhet av lager/packning/produktion, handscanner. Urval sker löpande.",
-   "sista_dag": "2026-11-21",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31632006",
-   "first_seen": "2026-10-22"
   },
   {
    "id": "31631877",
@@ -1560,18 +1560,6 @@
    "sista_dag": "2027-02-04",
    "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31631593",
    "first_seen": "2026-10-22"
-  },
-  {
-   "id": "31626933",
-   "rubrik": "CNC-operatör till stor industrikund i Sandviken",
-   "arbetsgivare": "Manpower Aktiebolag",
-   "ort": "Sandviken",
-   "kategori": "Industri",
-   "beskrivning": "Heltid, 6 månaders visstid med chans till förlängning, hos en industrikund i Sandviken. Köra och övervaka CNC-maskiner, mäta och kvalitetskontrollera detaljer samt följa ritningar. Skiftarbete förekommer.",
-   "krav": "Utbildning inom CNC eller motsvarande arbetslivserfarenhet. Mycket god svenska. Meriterande: truck- och traverskort. Bakgrundskontroll görs.",
-   "sista_dag": "2026-11-20",
-   "lank": "https://arbetsformedlingen.se/platsbanken/annonser/31626933",
-   "first_seen": "2026-10-21"
   },
   {
    "id": "31615408",
